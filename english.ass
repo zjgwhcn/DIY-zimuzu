@@ -24,13 +24,13 @@ Style: 单行注解,苹方 中等,20,&H00FFFFFF,&H000000FF,&H00963127,&H00000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:27.00,0:00:28.81,单行注解,,0,0,0,,ILLUMINA. . .
-Dialogue: 0,0:00:30.21,0:00:31.72,单行注解,,0,0,0,,ILLUMINATIO. . .
-Dialogue: 0,0:00:32.51,0:00:34.13,单行注解,,0,0,0,,ILLUMINATIA. . .
+Dialogue: 0,0:00:27.00,0:00:28.81,单行注解,,0,0,0,,ILLUMINA...
+Dialogue: 0,0:00:30.21,0:00:31.72,单行注解,,0,0,0,,ILLUMINATIO...
+Dialogue: 0,0:00:32.51,0:00:34.13,单行注解,,0,0,0,,ILLUMINATIA...
 Dialogue: 0,0:00:34.72,0:00:35.84,单行注解,,0,0,0,,What?
 Dialogue: 0,0:00:39.50,0:00:41.79,单行注解,,0,0,0,,ILLUMINATION!
 Dialogue: 0,0:00:54.49,0:00:56.15,单行注解,,0,0,0,,The year was 1985,
-Dialogue: 0,0:00:56.16,0:00:58.55,单行注解,,0,0,0,,and the number- one show on television was. . .
+Dialogue: 0,0:00:56.16,0:00:58.55,单行注解,,0,0,0,,and the number- one show on television was...
 Dialogue: 0,0:00:58.57,0:01:01.09,单行注解,,0,0,0,,Evil Bratt.
 Dialogue: 0,0:01:01.15,0:01:05.02,单行注解,,0,0,0,,The show starred young Balthazar Bratt as a child prodigy
 Dialogue: 0,0:01:05.15,0:01:09.73,单行注解,,0,0,0,,and criminal mastermind. . bent on world domination.
@@ -40,14 +40,14 @@ Dialogue: 0,0:01:17.92,0:01:20.90,单行注解,,0,0,0,,Bratt was the biggest chi
 Dialogue: 0,0:01:21.03,0:01:24.36,单行注解,,0,0,0,,striking a chord with audiences all over the world.
 Dialogue: 0,0:01:26.87,0:01:28.00,单行注解,,0,0,0,,There he is! Get him!
 Dialogue: 0,0:01:28.13,0:01:30.93,单行注解,,0,0,0,,But it all came to an end in season three,
-Dialogue: 0,0:01:30.95,0:01:31.95,单行注解,,0,0,0,,When. . .
+Dialogue: 0,0:01:30.95,0:01:31.95,单行注解,,0,0,0,,When...
 Dialogue: 0,0:01:31.98,0:01:34.51,单行注解,,0,0,0,,I've been a bad boy!
 Dialogue: 0,0:01:34.53,0:01:37.61,单行注解,,0,0,0,,The young star experienced an unexpected growth spurt.
 Dialogue: 0,0:01:38.33,0:01:41.13,单行注解,,0,0,0,,The show was canceled. Hollywood rejected him
 Dialogue: 0,0:01:41.15,0:01:44.57,单行注解,,0,0,0,,and Bratt quickly plunged into a downward spiral.
 Dialogue: 0,0:01:44.59,0:01:49.78,单行注解,,0,0,0,,Starting to actually believed he was the character he played on TV.
 Dialogue: 0,0:01:49.81,0:01:51.76,单行注解,,0,0,0,,What are you looking at?
-Dialogue: 0,0:01:51.78,0:01:53.66,单行注解,,0,0,0,,Leading us all to wonder. . .
+Dialogue: 0,0:01:51.78,0:01:53.66,单行注解,,0,0,0,,Leading us all to wonder...
 Dialogue: 0,0:01:53.68,0:01:55.97,单行注解,,0,0,0,,Where is he now?
 Dialogue: 0,0:02:02.31,0:02:03.62,单行注解,,0,0,0,,You know what, Clive?
 Dialogue: 0,0:02:03.65,0:02:06.15,单行注解,,0,0,0,,Playing a villain on TV was fun,
@@ -58,8 +58,8 @@ Dialogue: 0,0:02:15.68,0:02:16.80,单行注解,,0,0,0,,What? Clive!
 Dialogue: 0,0:02:16.82,0:02:19.64,单行注解,,0,0,0,,What are you doing? How is that heist music?
 Dialogue: 0,0:02:19.66,0:02:21.70,单行注解,,0,0,0,,Sorry, my bad.
 Dialogue: 0,0:03:00.90,0:03:02.83,单行注解,,0,0,0,,Mommy!
-Dialogue: 0,0:03:03.38,0:03:04.73,单行注解,,0,0,0,,Stop right. . .
-Dialogue: 0,0:03:07.24,0:03:10.72,单行注解,,0,0,0,,Sir, the ship has been boarded by some kind of... monster.
+Dialogue: 0,0:03:03.38,0:03:04.73,单行注解,,0,0,0,,Stop right...
+Dialogue: 0,0:03:07.24,0:03:10.72,单行注解,,0,0,0,,Sir, the ship has been boarded by some kind of...monster.
 Dialogue: 0,0:03:10.75,0:03:12.61,单行注解,,0,0,0,,Wait, that's not a monster.
 Dialogue: 0,0:03:12.63,0:03:15.53,单行注解,,0,0,0,,That's a man wearing shoulder pads.
 Dialogue: 0,0:03:15.55,0:03:19.42,单行注解,,0,0,0,,There's only one supervillain whose fashion sense is quite that dated,
@@ -67,7 +67,7 @@ Dialogue: 0,0:03:19.45,0:03:21.41,单行注解,,0,0,0,,Balthazar Bratt.
 Dialogue: 0,0:03:21.43,0:03:24.14,单行注解,,0,0,0,,Blast it! The Dupont Diamond is on that ship!
 Dialogue: 0,0:03:24.16,0:03:28.68,单行注解,,0,0,0,,I want every agent in the area on the scene immediately.
 Dialogue: 0,0:03:33.58,0:03:36.40,单行注解,,0,0,0,,We're already here! Agents Grucy are closing in fast.
-Dialogue: 0,0:03:36.42,0:03:39.11,单行注解,,0,0,0,,Yes... wait, wha? What did you call us?
+Dialogue: 0,0:03:36.42,0:03:39.11,单行注解,,0,0,0,,Yes...wait, wha? What did you call us?
 Dialogue: 0,0:03:39.14,0:03:41.95,单行注解,,0,0,0,,Grucy. You know, Gru and Lucy mushed together.
 Dialogue: 0,0:03:41.98,0:03:43.00,单行注解,,0,0,0,,Try it.
 Dialogue: 0,0:03:43.02,0:03:45.43,单行注解,,0,0,0,,Haha! I like it, but not a lot,
@@ -77,8 +77,8 @@ Dialogue: 0,0:03:52.99,0:03:54.35,单行注解,,0,0,0,,On the ground!
 Dialogue: 0,0:04:15.24,0:04:17.00,单行注解,,0,0,0,,The jewel! Move!
 Dialogue: 0,0:04:17.02,0:04:18.63,单行注解,,0,0,0,,Go, go, go!
 Dialogue: 0,0:04:19.31,0:04:20.74,单行注解,,0,0,0,,Don't move!
-Dialogue: 0,0:04:33.06,0:04:37.33,单行注解,,0,0,0,,Too late again, Gru. Ha, ha, ha... !
-Dialogue: 0,0:04:43.45,0:04:45.62,单行注解,,0,0,0,,WHAAA... ?
+Dialogue: 0,0:04:33.06,0:04:37.33,单行注解,,0,0,0,,Too late again, Gru. Ha, ha, ha...!
+Dialogue: 0,0:04:43.45,0:04:45.62,单行注解,,0,0,0,,WHAAA...?
 Dialogue: 0,0:04:45.64,0:04:46.65,单行注解,,0,0,0,,He's getting away! !
 Dialogue: 0,0:04:46.68,0:04:48.50,单行注解,,0,0,0,,That's what he thinks.
 Dialogue: 0,0:04:54.47,0:04:56.25,单行注解,,0,0,0,,Go, go!
@@ -86,10 +86,10 @@ Dialogue: 0,0:04:56.77,0:04:58.48,单行注解,,0,0,0,,Ugh! Go, go.
 Dialogue: 0,0:04:58.50,0:05:00.40,单行注解,,0,0,0,,Go, go, go!
 Dialogue: 0,0:05:03.48,0:05:05.30,单行注解,,0,0,0,,I don't think we can make it, Gru.
 Dialogue: 0,0:05:05.33,0:05:07.02,单行注解,,0,0,0,,We can make it!
-Dialogue: 0,0:05:08.73,0:05:13.30,单行注解,,0,0,0,,We can make it... !
+Dialogue: 0,0:05:08.73,0:05:13.30,单行注解,,0,0,0,,We can make it...!
 Dialogue: 0,0:05:13.32,0:05:16.04,单行注解,,0,0,0,,No, we can't!
 Dialogue: 0,0:05:16.53,0:05:18.74,单行注解,,0,0,0,,Get ready!
-Dialogue: 0,0:05:19.29,0:05:23.40,单行注解,,0,0,0,,Get ready for whaaa... !
+Dialogue: 0,0:05:19.29,0:05:23.40,单行注解,,0,0,0,,Get ready for whaaa...!
 Dialogue: 0,0:05:31.95,0:05:34.28,单行注解,,0,0,0,,Hey. How're you doing?
 Dialogue: 0,0:05:36.77,0:05:38.01,单行注解,,0,0,0,,Are you okay?
 Dialogue: 0,0:05:38.04,0:05:40.05,单行注解,,0,0,0,,Hello.
@@ -99,10 +99,10 @@ Dialogue: 0,0:05:44.28,0:05:46.12,单行注解,,0,0,0,,Hello, Gru.
 Dialogue: 0,0:05:46.82,0:05:48.32,单行注解,,0,0,0,,How's your transition coming?
 Dialogue: 0,0:05:48.35,0:05:52.03,单行注解,,0,0,0,,You know, from world's worst villain to world's worst agent?
 Dialogue: 0,0:05:52.06,0:05:54.45,单行注解,,0,0,0,,Oh, that's hilarious! You should be on TV!
-Dialogue: 0,0:05:54.47,0:05:56.50,单行注解,,0,0,0,,Oh, that's right, you were. . .
+Dialogue: 0,0:05:54.47,0:05:56.50,单行注解,,0,0,0,,Oh, that's right, you were...
 Dialogue: 0,0:05:56.52,0:05:58.57,单行注解,,0,0,0,,but then you got canceled.
 Dialogue: 0,0:06:00.72,0:06:02.19,单行注解,,0,0,0,,What about that?
-Dialogue: 0,0:06:02.26,0:06:04.39,单行注解,,0,0,0,,Whaaa... Oh! Girls? !
+Dialogue: 0,0:06:02.26,0:06:04.39,单行注解,,0,0,0,,Whaaa...Oh! Girls? !
 Dialogue: 0,0:06:07.52,0:06:09.01,单行注解,,0,0,0,,Dance fight!
 Dialogue: 0,0:06:27.06,0:06:29.28,单行注解,,0,0,0,,Alpha team, the diamond is secure.
 Dialogue: 0,0:06:29.30,0:06:31.04,单行注解,,0,0,0,,Come and pick up the package.
@@ -119,19 +119,19 @@ Dialogue: 0,0:07:10.77,0:07:12.58,单行注解,,0,0,0,,He's getting away!
 Dialogue: 0,0:07:13.63,0:07:16.08,单行注解,,0,0,0,,This isn't over, Gru! You hear me?
 Dialogue: 0,0:07:16.11,0:07:18.14,单行注解,,0,0,0,,This is not over!
 Dialogue: 0,0:07:18.16,0:07:21.61,单行注解,,0,0,0,,Yeah? Well, I still have the diamond!
-Dialogue: 0,0:07:21.64,0:07:27.37,单行注解,,0,0,0,,Happy birthday to you. Happy birthday to. . .
+Dialogue: 0,0:07:21.64,0:07:27.37,单行注解,,0,0,0,,Happy birthday to you. Happy birthday to...
 Dialogue: 0,0:07:27.40,0:07:32.89,单行注解,,0,0,0,,Happy birthday, dear Daaaan.
 Dialogue: 0,0:07:32.92,0:07:37.45,单行注解,,0,0,0,,Happy birthday to you.
 Dialogue: 0,0:07:40.64,0:07:42.94,单行注解,,0,0,0,,- Hey, you ready? - Yeah!
 Dialogue: 0,0:07:42.97,0:07:46.83,单行注解,,0,0,0,,Party! Party, everyone!
 Dialogue: 0,0:08:00.07,0:08:01.35,单行注解,,0,0,0,,Hey! Watch it!
 Dialogue: 0,0:08:07.99,0:08:10.94,单行注解,,0,0,0,,I can't believe Bratt got away, again.
-Dialogue: 0,0:08:11.07,0:08:13.91,单行注解,,0,0,0,,How is this possible? How... ?
+Dialogue: 0,0:08:11.07,0:08:13.91,单行注解,,0,0,0,,How is this possible? How...?
 Dialogue: 0,0:08:21.19,0:08:24.97,单行注解,,0,0,0,,And it's not just that he got away! It's that he's so smug about it!
 Dialogue: 0,0:08:25.00,0:08:28.66,单行注解,,0,0,0,,Ewww. I've been a baaaad boy!
 Dialogue: 0,0:08:28.68,0:08:30.24,单行注解,,0,0,0,,Edna, hey!
-Dialogue: 0,0:08:30.27,0:08:32.05,单行注解,,0,0,0,,Looking hot... today.
-Dialogue: 0,0:08:32.08,0:08:34.00,单行注解,,0,0,0,,Got the... cats on you.
+Dialogue: 0,0:08:30.27,0:08:32.05,单行注解,,0,0,0,,Looking hot...today.
+Dialogue: 0,0:08:32.08,0:08:34.00,单行注解,,0,0,0,,Got the...cats on you.
 Dialogue: 0,0:08:34.03,0:08:36.23,单行注解,,0,0,0,,And it was just so humiliating.
 Dialogue: 0,0:08:36.25,0:08:39.43,单行注解,,0,0,0,,Dangling there in the bubble- gum Speedo.
 Dialogue: 0,0:08:39.45,0:08:41.83,单行注解,,0,0,0,,And I didn't have time to go to the gym this week!
@@ -148,7 +148,7 @@ Dialogue: 0,0:09:21.49,0:09:22.86,单行注解,,0,0,0,,Oh no. .
 Dialogue: 0,0:09:22.89,0:09:30.68,单行注解,,0,0,0,,Your new leader is coming directly from head office, effective immediately.
 Dialogue: 0,0:09:30.71,0:09:38.63,单行注解,,0,0,0,,She is the very gifted, very ambitious Miss Valerie Da Vinci.
 Dialogue: 0,0:09:38.65,0:09:44.49,单行注解,,0,0,0,,As I look out over all of your faces, I am flooded with so many memories.
-Dialogue: 0,0:09:44.72,0:09:47.97,单行注解,,0,0,0,,- Oh boy, this is a snoozeday. - I... Excuse me.
+Dialogue: 0,0:09:44.72,0:09:47.97,单行注解,,0,0,0,,- Oh boy, this is a snoozeday. - I...Excuse me.
 Dialogue: 0,0:09:47.99,0:09:52.03,单行注解,,0,0,0,,Blah blah blah. We understand. You're old, you're fat, you're done.
 Dialogue: 0,0:09:52.31,0:09:54.15,单行注解,,0,0,0,,Let me breathe in.
 Dialogue: 0,0:09:55.50,0:09:57.93,单行注解,,0,0,0,,Woo. Broke a little sweat there.
@@ -156,15 +156,15 @@ Dialogue: 0,0:09:58.64,0:10:00.98,单行注解,,0,0,0,,First order of business.
 Dialogue: 0,0:10:01.00,0:10:04.23,单行注解,,0,0,0,,Which one of you losers is Agent Gru? !
 Dialogue: 0,0:10:05.12,0:10:07.41,单行注解,,0,0,0,,Uh? that would be me.
 Dialogue: 0,0:10:07.43,0:10:11.82,单行注解,,0,0,0,,Although I don't know if I'd say 'loser' per Se,
-Dialogue: 0,0:10:11.85,0:10:13.65,单行注解,,0,0,0,,kind of a... Huh!
+Dialogue: 0,0:10:11.85,0:10:13.65,单行注解,,0,0,0,,kind of a...Huh!
 Dialogue: 0,0:10:15.37,0:10:18.91,单行注解,,0,0,0,,Oh, it's the girls. Not a good time.
 Dialogue: 0,0:10:18.93,0:10:20.40,单行注解,,0,0,0,,
-Dialogue: 0,0:10:20.42,0:10:23.38,单行注解,,0,0,0,,Yes, sir. Huh, uh... ma'am.
+Dialogue: 0,0:10:20.42,0:10:23.38,单行注解,,0,0,0,,Yes, sir. Huh, uh...ma'am.
 Dialogue: 0,0:10:23.40,0:10:24.77,单行注解,,0,0,0,,You're making me nervous.
 Dialogue: 0,0:10:24.79,0:10:27.81,单行注解,,0,0,0,,How could you let Balthazar Bratt,
 Dialogue: 0,0:10:27.84,0:10:31.51,单行注解,,0,0,0,,the AVL's most- wanted villain, just get away?
 Dialogue: 0,0:10:31.54,0:10:33.82,单行注解,,0,0,0,,That is the opposite of what we do here!
-Dialogue: 0,0:10:33.85,0:10:38.02,单行注解,,0,0,0,,Okay, okay, yes, maybe he got away... again,
+Dialogue: 0,0:10:33.85,0:10:38.02,单行注解,,0,0,0,,Okay, okay, yes, maybe he got away...again,
 Dialogue: 0,0:10:38.04,0:10:40.82,单行注解,,0,0,0,,but he didn't get the diamond!
 Dialogue: 0,0:10:40.84,0:10:43.93,单行注解,,0,0,0,,And I am this close to bringing him in.
 Dialogue: 0,0:10:43.96,0:10:46.16,单行注解,,0,0,0,,This close!
@@ -202,11 +202,11 @@ Dialogue: 0,0:13:06.24,0:13:07.90,单行注解,,0,0,0,,I'm gonna hold it in my m
 Dialogue: 0,0:13:07.92,0:13:09.88,单行注解,,0,0,0,,because it's so good I don't want to swallow it.
 Dialogue: 0,0:13:09.91,0:13:11.57,单行注解,,0,0,0,,So. . how was work?
 Dialogue: 0,0:13:11.79,0:13:15.13,单行注解,,0,0,0,,Did you take that guy down? Did anything explode?
-Dialogue: 0,0:13:15.15,0:13:19.83,单行注解,,0,0,0,,Well, actually, today Lucy and I. . .
-Dialogue: 0,0:13:19.85,0:13:24.93,单行注解,,0,0,0,,... were invited to not work at the AVL anymore.
+Dialogue: 0,0:13:15.15,0:13:19.83,单行注解,,0,0,0,,Well, actually, today Lucy and I...
+Dialogue: 0,0:13:19.85,0:13:24.93,单行注解,,0,0,0,,...were invited to not work at the AVL anymore.
 Dialogue: 0,0:13:25.11,0:13:27.17,单行注解,,0,0,0,,Huh! No!
 Dialogue: 0,0:13:29.00,0:13:30.15,单行注解,,0,0,0,,You got fired?
-Dialogue: 0,0:13:30.17,0:13:33.04,单行注解,,0,0,0,,Oh no! No, no, no. . .
+Dialogue: 0,0:13:30.17,0:13:33.04,单行注解,,0,0,0,,Oh no! No, no, no...
 Dialogue: 0,0:13:34.20,0:13:35.77,单行注解,,0,0,0,,- Yes. - What?
 Dialogue: 0,0:13:35.79,0:13:37.75,单行注解,,0,0,0,,But don't worry,
 Dialogue: 0,0:13:37.77,0:13:40.43,单行注解,,0,0,0,,I'm sure we'll get new jobs real soon.
@@ -228,17 +228,17 @@ Dialogue: 0,0:14:29.19,0:14:29.79,单行注解,,0,0,0,,
 Dialogue: 0,0:14:29.82,0:14:33.60,单行注解,,0,0,0,,But our life of crime is over!
 Dialogue: 0,0:14:34.51,0:14:38.06,单行注解,,0,0,0,,Mel. Mel, you're with me on this, right?
 Dialogue: 0,0:14:38.47,0:14:39.77,单行注解,,0,0,0,,Look at this!
-Dialogue: 0,0:14:39.79,0:14:41.41,单行注解,,0,0,0,,- Good... - Yay!
+Dialogue: 0,0:14:39.79,0:14:41.41,单行注解,,0,0,0,,- Good...- Yay!
 Dialogue: 0,0:14:41.44,0:14:43.39,单行注解,,0,0,0,,Boring!
-Dialogue: 0,0:14:43.42,0:14:45.09,单行注解,,0,0,0,,- Good... - Yay!
+Dialogue: 0,0:14:43.42,0:14:45.09,单行注解,,0,0,0,,- Good...- Yay!
 Dialogue: 0,0:14:45.12,0:14:47.27,单行注解,,0,0,0,,Boring!
-Dialogue: 0,0:14:47.29,0:14:49.13,单行注解,,0,0,0,,- Good... - Yay!
+Dialogue: 0,0:14:47.29,0:14:49.13,单行注解,,0,0,0,,- Good...- Yay!
 Dialogue: 0,0:14:49.15,0:14:51.83,单行注解,,0,0,0,,Boring! !
 Dialogue: 0,0:14:51.85,0:14:54.37,单行注解,,0,0,0,,no more boring! !
 Dialogue: 0,0:14:54.40,0:14:56.80,单行注解,,0,0,0,,Boring! Boring!
 Dialogue: 0,0:14:56.82,0:14:59.82,单行注解,,0,0,0,,Guys! Listen to me and read my lips!
 Dialogue: 0,0:14:59.84,0:15:04.33,单行注解,,0,0,0,,Lissa me lippo, pomodoro la comquit!
-Dialogue: 0,0:15:06.54,0:15:08.28,单行注解,,0,0,0,,What? Ohh. . .
+Dialogue: 0,0:15:06.54,0:15:08.28,单行注解,,0,0,0,,What? Ohh...
 Dialogue: 0,0:15:08.31,0:15:10.67,单行注解,,0,0,0,,What did I say? "la comquit? "
 Dialogue: 0,0:15:11.34,0:15:14.31,单行注解,,0,0,0,,Oh, okay, pomodoro la kumquat.
 Dialogue: 0,0:15:14.33,0:15:16.62,单行注解,,0,0,0,,Whoa, whoa, whoa. Did you say no more crime?
@@ -258,7 +258,7 @@ Dialogue: 0,0:15:43.32,0:15:45.45,单行注解,,0,0,0,,What? You quit?
 Dialogue: 0,0:15:45.84,0:15:48.46,单行注解,,0,0,0,,You're serious? Come on.
 Dialogue: 0,0:15:51.32,0:15:53.58,单行注解,,0,0,0,,Bud- Buddy?
 Dialogue: 0,0:15:53.60,0:15:55.92,单行注解,,0,0,0,,Dave! Jerry!
-Dialogue: 0,0:15:56.72,0:15:59.98,单行注解,,0,0,0,,Great news, guys... you've been promoted.
+Dialogue: 0,0:15:56.72,0:15:59.98,单行注解,,0,0,0,,Great news, guys...you've been promoted.
 Dialogue: 0,0:16:00.00,0:16:03.87,单行注解,,0,0,0,,You're in charge now, eh? Not bad!
 Dialogue: 0,0:16:04.95,0:16:07.86,单行注解,,0,0,0,,Yipa! Yipo! Yippee!
 Dialogue: 0,0:16:07.88,0:16:11.40,单行注解,,0,0,0,,Aruba- ruba- ruba- ruba!
@@ -288,9 +288,9 @@ Dialogue: 0,0:17:08.83,0:17:11.58,单行注解,,0,0,0,,You have been duped.
 Dialogue: 0,0:17:11.61,0:17:13.07,单行注解,,0,0,0,,What? We have?
 Dialogue: 0,0:17:13.10,0:17:14.27,单行注解,,0,0,0,,Yes.
 Dialogue: 0,0:17:14.30,0:17:16.09,单行注解,,0,0,0,,By me!
-Dialogue: 0,0:17:19.70,0:17:21.13,单行注解,,0,0,0,,Wha- What is... ?
+Dialogue: 0,0:17:19.70,0:17:21.13,单行注解,,0,0,0,,Wha- What is...?
 Dialogue: 0,0:17:23.94,0:17:26.08,单行注解,,0,0,0,,Oh no. Help!
-Dialogue: 0,0:17:31.12,0:17:33.36,单行注解,,0,0,0,,Ha ha ha. . .
+Dialogue: 0,0:17:31.12,0:17:33.36,单行注解,,0,0,0,,Ha ha ha...
 Dialogue: 0,0:17:44.32,0:17:47.18,单行注解,,0,0,0,,I've been a bad boy!
 Dialogue: 0,0:17:47.21,0:17:51.62,单行注解,,0,0,0,,Or should I say, "Je suis un mauvais garmanon! "
 Dialogue: 0,0:18:05.69,0:18:07.05,单行注解,,0,0,0,,Oh.
@@ -313,7 +313,7 @@ Dialogue: 0,0:19:11.93,0:19:14.58,单行注解,,0,0,0,,Things will get better, I
 Dialogue: 0,0:19:31.64,0:19:34.14,单行注解,,0,0,0,,Follow me. Follow me.
 Dialogue: 0,0:19:34.16,0:19:36.18,单行注解,,0,0,0,,Coming through, make way.
 Dialogue: 0,0:19:36.20,0:19:37.98,单行注解,,0,0,0,,- Coming through. - Uh, excuse me.
-Dialogue: 0,0:19:38.23,0:19:41.82,单行注解,,0,0,0,,Pardon me, young... people.
+Dialogue: 0,0:19:38.23,0:19:41.82,单行注解,,0,0,0,,Pardon me, young...people.
 Dialogue: 0,0:19:41.84,0:19:45.21,单行注解,,0,0,0,,Would you tell me how to get to this address?
 Dialogue: 0,0:19:45.24,0:19:47.01,单行注解,,0,0,0,,
 Dialogue: 0,0:19:47.03,0:19:48.51,单行注解,,0,0,0,,You are looking for Minions?
@@ -325,25 +325,25 @@ Dialogue: 0,0:20:03.87,0:20:05.59,单行注解,,0,0,0,,Idiots.
 Dialogue: 0,0:20:08.81,0:20:10.99,单行注解,,0,0,0,,No. Kyle. Stop!
 Dialogue: 0,0:20:11.01,0:20:13.05,单行注解,,0,0,0,,Kyle, let go.
 Dialogue: 0,0:20:15.73,0:20:16.68,单行注解,,0,0,0,,BRATT STEALS WORLD'S BIGGEST DIAMOND
-Dialogue: 0,0:20:16.71,0:20:19.88,单行注解,,0,0,0,,No, no... you've got to be kidding me.
-Dialogue: 0,0:20:19.90,0:20:21.06,单行注解,,0,0,0,,Lucy, did you see. . .
-Dialogue: 0,0:20:21.08,0:20:24.93,单行注解,,0,0,0,,He helps you if you have nightmares, and he's really good to snuggle with. . .
+Dialogue: 0,0:20:16.71,0:20:19.88,单行注解,,0,0,0,,No, no...you've got to be kidding me.
+Dialogue: 0,0:20:19.90,0:20:21.06,单行注解,,0,0,0,,Lucy, did you see...
+Dialogue: 0,0:20:21.08,0:20:24.93,单行注解,,0,0,0,,He helps you if you have nightmares, and he's really good to snuggle with...
 Dialogue: 0,0:20:24.96,0:20:26.68,单行注解,,0,0,0,,Oh no, no, no, Agnes! Agnes!
 Dialogue: 0,0:20:26.70,0:20:28.89,单行注解,,0,0,0,,So, take good care of him.
 Dialogue: 0,0:20:28.92,0:20:30.62,单行注解,,0,0,0,,Thank you!
-Dialogue: 0,0:20:30.64,0:20:33.29,单行注解,,0,0,0,,Agnes, what are you doing? You. . .
+Dialogue: 0,0:20:30.64,0:20:33.29,单行注解,,0,0,0,,Agnes, what are you doing? You...
 Dialogue: 0,0:20:33.31,0:20:35.17,单行注解,,0,0,0,,You sold your unicorn?
 Dialogue: 0,0:20:35.19,0:20:39.32,单行注解,,0,0,0,,Well, I just wanted to help. Since you don't have a job.
 Dialogue: 0,0:20:39.70,0:20:42.10,单行注解,,0,0,0,,I got two whole dollars for it!
 Dialogue: 0,0:20:42.13,0:20:44.04,单行注解,,0,0,0,,
 Dialogue: 0,0:20:45.03,0:20:46.78,单行注解,,0,0,0,,Uh, excuse me.
 Dialogue: 0,0:20:46.80,0:20:48.91,单行注解,,0,0,0,,Sorry, buddy, the sale's over.
-Dialogue: 0,0:20:48.94,0:20:50.59,单行注解,,0,0,0,,Yes, but this will only take a... .
+Dialogue: 0,0:20:48.94,0:20:50.59,单行注解,,0,0,0,,Yes, but this will only take a....
 Dialogue: 0,0:20:50.62,0:20:52.96,单行注解,,0,0,0,,Hey, Eyebrows. Get off the lawn.
-Dialogue: 0,0:20:52.99,0:20:54.34,单行注解,,0,0,0,,Yeah, but. . .
-Dialogue: 0,0:20:54.36,0:20:57.74,单行注解,,0,0,0,,- Hey, could you... - Oh uh, of course.
-Dialogue: 0,0:20:57.76,0:21:00.14,单行注解,,0,0,0,,Now, as I was saying. I. . .
-Dialogue: 0,0:21:00.16,0:21:02.79,单行注解,,0,0,0,,- Uh... Oh. - Goodbye.
+Dialogue: 0,0:20:52.99,0:20:54.34,单行注解,,0,0,0,,Yeah, but...
+Dialogue: 0,0:20:54.36,0:20:57.74,单行注解,,0,0,0,,- Hey, could you...- Oh uh, of course.
+Dialogue: 0,0:20:57.76,0:21:00.14,单行注解,,0,0,0,,Now, as I was saying. I...
+Dialogue: 0,0:21:00.16,0:21:02.79,单行注解,,0,0,0,,- Uh...Oh. - Goodbye.
 Dialogue: 0,0:21:08.27,0:21:10.59,单行注解,,0,0,0,,Listen, Agnes. You don't need to worry.
 Dialogue: 0,0:21:10.62,0:21:12.42,单行注解,,0,0,0,,We're going to be fine.
 Dialogue: 0,0:21:12.45,0:21:14.70,单行注解,,0,0,0,,- For real? - For real.
@@ -352,7 +352,7 @@ Dialogue: 0,0:21:17.79,0:21:21.29,单行注解,,0,0,0,,Seriously? Buddy, you're 
 Dialogue: 0,0:21:21.51,0:21:24.05,单行注解,,0,0,0,,Excuse me, Mr. Gru.
 Dialogue: 0,0:21:24.27,0:21:27.41,单行注解,,0,0,0,,But I really must have a word with you.
 Dialogue: 0,0:21:27.63,0:21:29.00,单行注解,,0,0,0,,How did you know my name?
-Dialogue: 0,0:21:29.22,0:21:33.45,单行注解,,0,0,0,,Allow me to introduce myself... my name is Fritz!
+Dialogue: 0,0:21:29.22,0:21:33.45,单行注解,,0,0,0,,Allow me to introduce myself...my name is Fritz!
 Dialogue: 0,0:21:33.47,0:21:35.72,单行注解,,0,0,0,,Uh, good puppy.
 Dialogue: 0,0:21:35.96,0:21:40.56,单行注解,,0,0,0,,And I am inquiring on behalf of your twin brother, Dru.
 Dialogue: 0,0:21:40.69,0:21:42.19,单行注解,,0,0,0,,He needs your help.
@@ -361,12 +361,12 @@ Dialogue: 0,0:21:43.98,0:21:45.05,单行注解,,0,0,0,,Twin brother?
 Dialogue: 0,0:21:45.07,0:21:46.09,单行注解,,0,0,0,,Twin brother?
 Dialogue: 0,0:21:46.12,0:21:47.01,单行注解,,0,0,0,,Oh Yeah.
 Dialogue: 0,0:21:47.13,0:21:50.59,单行注解,,0,0,0,,He would like to fly you to Freedonia to meet him.
-Dialogue: 0,0:21:50.61,0:21:54.49,单行注解,,0,0,0,,Your father has recently passed away and. . .
+Dialogue: 0,0:21:50.61,0:21:54.49,单行注解,,0,0,0,,Your father has recently passed away and...
 Dialogue: 0,0:21:54.52,0:21:57.41,单行注解,,0,0,0,,Okay, cuckoo. I'm sorry, but my dad died
 Dialogue: 0,0:21:57.43,0:22:00.07,单行注解,,0,0,0,,when I was a baby, and I don't have any brother.
 Dialogue: 0,0:22:00.09,0:22:01.43,单行注解,,0,0,0,,You've got the wrong guy.
 Dialogue: 0,0:22:01.45,0:22:02.64,单行注解,,0,0,0,,Really?
-Dialogue: 0,0:22:02.66,0:22:07.29,单行注解,,0,0,0,,Well, then how do you explain... this?
+Dialogue: 0,0:22:02.66,0:22:07.29,单行注解,,0,0,0,,Well, then how do you explain...this?
 Dialogue: 0,0:22:12.87,0:22:15.92,单行注解,,0,0,0,,Ahhhhh! Bellissimo!
 Dialogue: 0,0:22:17.84,0:22:20.88,单行注解,,0,0,0,,- Oh, hello, Gru. - Hi, Mom.
 Dialogue: 0,0:22:20.90,0:22:25.25,单行注解,,0,0,0,,It's important to keep active in one's golden years.
@@ -389,7 +389,7 @@ Dialogue: 0,0:23:27.29,0:23:29.66,单行注解,,0,0,0,,I have a brother.
 Dialogue: 0,0:23:36.27,0:23:39.08,单行注解,,0,0,0,,Hey girls, how are things in row B, huh?
 Dialogue: 0,0:23:39.11,0:23:41.65,单行注解,,0,0,0,,I've put together some fun activities for the trip.
 Dialogue: 0,0:23:41.68,0:23:44.66,单行注解,,0,0,0,,Who is up for some Gin Rummy?
-Dialogue: 0,0:23:44.68,0:23:48.54,单行注解,,0,0,0,,Yeah. Umm... We're good.
+Dialogue: 0,0:23:44.68,0:23:48.54,单行注解,,0,0,0,,Yeah. Umm...We're good.
 Dialogue: 0,0:23:48.57,0:23:50.44,单行注解,,0,0,0,,Oh. Okay.
 Dialogue: 0,0:23:50.47,0:23:53.10,单行注解,,0,0,0,,I'll just sit here and play solitaire.
 Dialogue: 0,0:23:53.13,0:23:54.83,单行注解,,0,0,0,,I hope I win.
@@ -512,7 +512,7 @@ Dialogue: 0,0:31:14.39,0:31:16.86,单行注解,,0,0,0,,- End of story. - Oh.
 Dialogue: 0,0:31:17.70,0:31:20.17,单行注解,,0,0,0,,Okay. I understand.
 Dialogue: 0,0:31:20.19,0:31:22.92,单行注解,,0,0,0,,I wonder what this does?
 Dialogue: 0,0:31:24.41,0:31:25.54,单行注解,,0,0,0,,Help. Help!
-Dialogue: 0,0:31:25.57,0:31:26.71,单行注解,,0,0,0,,No no no. . .
+Dialogue: 0,0:31:25.57,0:31:26.71,单行注解,,0,0,0,,No no no...
 Dialogue: 0,0:31:39.35,0:31:40.72,单行注解,,0,0,0,,Holey moley!
 Dialogue: 0,0:31:40.74,0:31:45.69,单行注解,,0,0,0,,Dad's villain wheels. Pretty slick, huh?
 Dialogue: 0,0:31:45.72,0:31:48.12,单行注解,,0,0,0,,Hey, you want to take her out for a spin?
@@ -524,7 +524,7 @@ Dialogue: 0,0:32:09.85,0:32:12.03,单行注解,,0,0,0,,armed to the teeth!
 Dialogue: 0,0:32:13.38,0:32:15.71,单行注解,,0,0,0,,Oh yeah. That's pretty nice.
 Dialogue: 0,0:32:15.74,0:32:19.34,单行注解,,0,0,0,,- And it's a hybrid. - LOOK OUT!
 Dialogue: 0,0:32:40.15,0:32:43.35,单行注解,,0,0,0,,Yeah! Help me!
-Dialogue: 0,0:32:45.14,0:32:49.38,单行注解,,0,0,0,,I am not enjoying this... !
+Dialogue: 0,0:32:45.14,0:32:49.38,单行注解,,0,0,0,,I am not enjoying this...!
 Dialogue: 0,0:32:58.01,0:33:00.21,单行注解,,0,0,0,,Whoa. What is going on here?
 Dialogue: 0,0:33:00.53,0:33:04.45,单行注解,,0,0,0,,Welcome to the annual Freedonian Cheese Festival!
 Dialogue: 0,0:33:04.48,0:33:05.35,单行注解,,0,0,0,,Go!
@@ -567,7 +567,7 @@ Dialogue: 0,0:34:58.85,0:35:00.67,单行注解,,0,0,0,,Hello, Margo.
 Dialogue: 0,0:35:00.80,0:35:05.22,单行注解,,0,0,0,,I am Niko. Would you like some of my cheese?
 Dialogue: 0,0:35:07.54,0:35:11.47,单行注解,,0,0,0,,Yes, yes, yes! Thank you, Margo! Thank you!
 Dialogue: 0,0:35:12.75,0:35:15.01,单行注解,,0,0,0,,BAM! I am a great mother.
-Dialogue: 0,0:35:15.04,0:35:18.40,单行注解,,0,0,0,,Did you see that, girls? I lay down the. . .
+Dialogue: 0,0:35:15.04,0:35:18.40,单行注解,,0,0,0,,Did you see that, girls? I lay down the...
 Dialogue: 0,0:35:18.63,0:35:21.21,单行注解,,0,0,0,,Oh no. Where are they?
 Dialogue: 0,0:35:21.44,0:35:23.96,单行注解,,0,0,0,,Agnes! Edith!
 Dialogue: 0,0:35:26.46,0:35:27.84,单行注解,,0,0,0,,Hello.
@@ -616,7 +616,7 @@ Dialogue: 0,0:38:47.52,0:38:49.73,单行注解,,0,0,0,,Man, that was crazy!
 Dialogue: 0,0:38:49.75,0:38:52.37,单行注解,,0,0,0,,- We're so close to getting busted. - Tell me about it.
 Dialogue: 0,0:38:52.40,0:38:55.31,单行注解,,0,0,0,,I thought you were going to pee your pants!
 Dialogue: 0,0:38:55.34,0:38:58.24,单行注解,,0,0,0,,- I did! - You did!
-Dialogue: 0,0:39:04.91,0:39:07.43,单行注解,,0,0,0,,Mel, tired. . .
+Dialogue: 0,0:39:04.91,0:39:07.43,单行注解,,0,0,0,,Mel, tired...
 Dialogue: 0,0:39:08.87,0:39:11.02,单行注解,,0,0,0,,Ugh. Hey, Mel. Hold on a sec.
 Dialogue: 0,0:39:11.04,0:39:12.47,单行注解,,0,0,0,,We're tired, thirsty, and hungry.
 Dialogue: 0,0:39:12.49,0:39:14.50,单行注解,,0,0,0,,- Mel, tired. - Mel, hungry.
@@ -638,14 +638,14 @@ Dialogue: 0,0:41:30.92,0:41:32.41,单行注解,,0,0,0,,Don't move!
 Dialogue: 0,0:41:33.38,0:41:35.28,单行注解,,0,0,0,,Hands in the air!
 Dialogue: 0,0:41:42.64,0:41:46.25,单行注解,,0,0,0,,Face it, Gru. Villainy is in your blood.
 Dialogue: 0,0:41:46.42,0:41:49.40,单行注解,,0,0,0,,You can't tell me you don't miss the rush. A little?
-Dialogue: 0,0:41:49.43,0:41:52.49,单行注解,,0,0,0,,Well... Yeah, maybe a little.
+Dialogue: 0,0:41:49.43,0:41:52.49,单行注解,,0,0,0,,Well...Yeah, maybe a little.
 Dialogue: 0,0:41:52.52,0:41:55.26,单行注解,,0,0,0,,And now you've got a chance to get back on top.
 Dialogue: 0,0:41:55.29,0:41:58.11,单行注解,,0,0,0,,Get your mojo back. Become Gru again!
 Dialogue: 0,0:41:58.13,0:42:01.00,单行注解,,0,0,0,,How awesome would that be?
 Dialogue: 0,0:42:02.63,0:42:06.90,单行注解,,0,0,0,,Oh please, come on, just one heist.
 Dialogue: 0,0:42:06.91,0:42:10.82,单行注解,,0,0,0,,There's got to be something out there, somewhere,
 Dialogue: 0,0:42:10.84,0:42:14.09,单行注解,,0,0,0,,that you still want to steal.
-Dialogue: 0,0:42:15.95,0:42:19.30,单行注解,,0,0,0,,Hmmmm... There is something.
+Dialogue: 0,0:42:15.95,0:42:19.30,单行注解,,0,0,0,,Hmmmm...There is something.
 Dialogue: 0,0:42:19.32,0:42:25.51,单行注解,,0,0,0,,How about we steal the largest diamond in the world?
 Dialogue: 0,0:42:25.53,0:42:28.31,单行注解,,0,0,0,,Yes! I love it!
 Dialogue: 0,0:42:28.67,0:42:30.18,单行注解,,0,0,0,,Oh, thank you, Brother!
@@ -669,20 +669,20 @@ Dialogue: 0,0:43:26.71,0:43:29.32,单行注解,,0,0,0,,And I'm kind of an idiot!
 Dialogue: 0,0:43:38.97,0:43:40.82,单行注解,,0,0,0,,Oh, a bust in the gut.
 Dialogue: 0,0:43:40.85,0:43:45.01,单行注解,,0,0,0,,Look at them! They had no idea!
 Dialogue: 0,0:43:45.03,0:43:46.59,单行注解,,0,0,0,,Total burn.
-Dialogue: 0,0:43:46.62,0:43:48.70,单行注解,,0,0,0,,Oh, look, it's me... Gru!
+Dialogue: 0,0:43:46.62,0:43:48.70,单行注解,,0,0,0,,Oh, look, it's me...Gru!
 Dialogue: 0,0:43:48.72,0:43:52.19,单行注解,,0,0,0,,And I'm Dru! We switched places!
 Dialogue: 0,0:43:52.21,0:43:54.60,单行注解,,0,0,0,,Awww. It's so nice to see you two are getting along
-Dialogue: 0,0:43:54.63,0:43:58.05,单行注解,,0,0,0,,- Oh, we're getting... - Along perfectly.
-Dialogue: 0,0:43:58.21,0:43:59.70,单行注解,,0,0,0,,- Wait. Did we... - Just finish. . .
-Dialogue: 0,0:43:59.73,0:44:00.72,单行注解,,0,0,0,,- Each... - Other's. . .
+Dialogue: 0,0:43:54.63,0:43:58.05,单行注解,,0,0,0,,- Oh, we're getting...- Along perfectly.
+Dialogue: 0,0:43:58.21,0:43:59.70,单行注解,,0,0,0,,- Wait. Did we...- Just finish...
+Dialogue: 0,0:43:59.73,0:44:00.72,单行注解,,0,0,0,,- Each...- Other's...
 Dialogue: 0,0:44:00.75,0:44:02.20,单行注解,,0,0,0,,- Sentences? - Sentences?
 Dialogue: 0,0:44:03.16,0:44:05.75,单行注解,,0,0,0,,Aw, that's delightful. Not creepy at all.
 Dialogue: 0,0:44:05.78,0:44:07.21,单行注解,,0,0,0,,And you're gonna stop now, though, right?
 Dialogue: 0,0:44:07.24,0:44:09.49,单行注解,,0,0,0,,Sorry, it's a twin thing.
 Dialogue: 0,0:44:09.52,0:44:11.07,单行注解,,0,0,0,,Uh- huh.
-Dialogue: 0,0:44:11.09,0:44:14.92,单行注解,,0,0,0,,So... what did you guys do today?
+Dialogue: 0,0:44:11.09,0:44:14.92,单行注解,,0,0,0,,So...what did you guys do today?
 Dialogue: 0,0:44:14.95,0:44:16.73,单行注解,,0,0,0,,- Nothing! - Nothing!
-Dialogue: 0,0:44:17.06,0:44:18.15,单行注解,,0,0,0,,Okay. What is it. . .
+Dialogue: 0,0:44:17.06,0:44:18.15,单行注解,,0,0,0,,Okay. What is it...
 Dialogue: 0,0:44:18.18,0:44:19.54,单行注解,,0,0,0,,All done!
 Dialogue: 0,0:44:20.05,0:44:20.96,单行注解,,0,0,0,,Pardon me!
 Dialogue: 0,0:44:20.99,0:44:22.94,单行注解,,0,0,0,,Out of the way! Good night, everybody!
@@ -696,7 +696,7 @@ Dialogue: 0,0:44:39.03,0:44:41.41,单行注解,,0,0,0,,I feel like someone got's
 Dialogue: 0,0:44:41.43,0:44:42.65,单行注解,,0,0,0,,Not it!
 Dialogue: 0,0:44:42.78,0:44:44.37,单行注解,,0,0,0,,Ohhh, don't worry.
 Dialogue: 0,0:44:44.50,0:44:47.56,单行注解,,0,0,0,,Parenting 101. I've got this.
-Dialogue: 0,0:44:49.30,0:44:52.58,单行注解,,0,0,0,,Ummm... And please bless that when I find the unicorn,
+Dialogue: 0,0:44:49.30,0:44:52.58,单行注解,,0,0,0,,Ummm...And please bless that when I find the unicorn,
 Dialogue: 0,0:44:52.61,0:44:55.63,单行注解,,0,0,0,,he'll want to come home with me. And sleep in my room.
 Dialogue: 0,0:44:55.65,0:44:58.90,单行注解,,0,0,0,,And that I can ride him to school every day.
 Dialogue: 0,0:44:58.93,0:45:02.60,单行注解,,0,0,0,,And he will use his magical powers to help me do math.
@@ -712,12 +712,12 @@ Dialogue: 0,0:45:25.31,0:45:27.07,单行注解,,0,0,0,,you can bring it home.
 Dialogue: 0,0:45:27.09,0:45:30.35,单行注解,NTP,0,0,0,,I'd better build a big pen, right?
 Dialogue: 0,0:45:30.97,0:45:33.37,单行注解,NTP,0,0,0,,But you know what?
 Dialogue: 0,0:45:33.50,0:45:37.11,单行注解,NTP,0,0,0,,there's a chance that you might not find one.
-Dialogue: 0,0:45:39.65,0:45:40.83,单行注解,NTP,0,0,0,,I'm. . .
+Dialogue: 0,0:45:39.65,0:45:40.83,单行注解,NTP,0,0,0,,I'm...
 Dialogue: 0,0:45:40.86,0:45:45.45,单行注解,NTP,0,0,0,,It might not be good unicorn finding weather.
 Dialogue: 0,0:45:48.00,0:45:51.34,单行注解,NTP,0,0,0,,They're tricky to find them?
 Dialogue: 0,0:45:51.37,0:45:53.33,单行注解,NTP,0,0,0,,and I don't known?
-Dialogue: 0,0:45:53.36,0:46:02.65,单行注解,NTP,0,0,0,,Maybe, just... maybe unicorns don't really ex. . .
-Dialogue: 0,0:46:03.13,0:46:08.02,单行注解,NTP,0,0,0,,... explore that part of the woods.
+Dialogue: 0,0:45:53.36,0:46:02.65,单行注解,NTP,0,0,0,,Maybe, just...maybe unicorns don't really ex...
+Dialogue: 0,0:46:03.13,0:46:08.02,单行注解,NTP,0,0,0,,...explore that part of the woods.
 Dialogue: 0,0:46:10.13,0:46:12.42,单行注解,NTP,0,0,0,,But the man said
 Dialogue: 0,0:46:12.44,0:46:15.62,单行注解,NTP,0,0,0,,a maiden could find one if she was pure of heart.
 Dialogue: 0,0:46:15.64,0:46:18.42,单行注解,NTP,0,0,0,,And I'm pure of heart, right?
@@ -736,7 +736,7 @@ Dialogue: 0,0:47:26.39,0:47:28.70,单行注解,NTP,0,0,0,,We've been waiting a l
 Dialogue: 0,0:47:28.97,0:47:30.57,单行注解,NTP,0,0,0,,No. No. Ow!
 Dialogue: 0,0:47:30.59,0:47:32.06,单行注解,NTP,0,0,0,,No. Please, don't.
 Dialogue: 0,0:47:34.08,0:47:35.58,单行注解,NTP,0,0,0,,Gru?
-Dialogue: 0,0:47:57.84,0:48:00.70,单行注解,NTP,0,0,0,,My plane... broken.
+Dialogue: 0,0:47:57.84,0:48:00.70,单行注解,NTP,0,0,0,,My plane...broken.
 Dialogue: 0,0:48:24.76,0:48:26.40,单行注解,NTP,0,0,0,,Buddies, I've decided.
 Dialogue: 0,0:48:26.42,0:48:30.85,单行注解,NTP,0,0,0,,We're going back to Gru. We're going back to Gru!
 Dialogue: 0,0:48:35.79,0:48:39.56,单行注解,NTP,0,0,0,,Because I'm training for the big day,
@@ -757,13 +757,13 @@ Dialogue: 0,0:49:33.95,0:49:35.28,单行注解,NTP,0,0,0,,Gum one. Gum all.
 Dialogue: 0,0:49:35.31,0:49:38.95,单行注解,NTP,0,0,0,,Seriously, how did this show never win an Emmy?
 Dialogue: 0,0:49:41.12,0:49:45.74,单行注解,NTP,0,0,0,,And now, it's your turn to shine, my diamond!
 Dialogue: 0,0:49:56.97,0:49:57.96,单行注解,NTP,0,0,0,,Hey, Clive.
-Dialogue: 0,0:49:57.98,0:50:02.37,单行注解,NTP,0,0,0,,I guess you can say our plan was... out of this world.
+Dialogue: 0,0:49:57.98,0:50:02.37,单行注解,NTP,0,0,0,,I guess you can say our plan was...out of this world.
 Dialogue: 0,0:50:06.17,0:50:08.49,单行注解,NTP,0,0,0,,Now that's entertainment.
 Dialogue: 0,0:50:08.82,0:50:11.75,单行注解,NTP,0,0,0,,Come on. Let's make it a reality.
 Dialogue: 0,0:50:15.07,0:50:18.58,单行注解,NTP,0,0,0,,Here we are, in the dark and creepy Crooked Forest,
 Dialogue: 0,0:50:18.60,0:50:20.81,单行注解,NTP,0,0,0,,in search of the mythical unicorn.
 Dialogue: 0,0:50:20.84,0:50:22.21,单行注解,NTP,0,0,0,,For some reason.
-Dialogue: 0,0:50:22.25,0:50:25.63,单行注解,NTP,0,0,0,,And here she is, the fearless unicorn hunter, seeking the. . .
+Dialogue: 0,0:50:22.25,0:50:25.63,单行注解,NTP,0,0,0,,And here she is, the fearless unicorn hunter, seeking the...
 Dialogue: 0,0:50:25.66,0:50:27.07,单行注解,NTP,0,0,0,,Edith, stop it!
 Dialogue: 0,0:50:27.09,0:50:29.30,单行注解,NTP,0,0,0,,You're gonna scare away the unicorn!
 Dialogue: 0,0:50:29.33,0:50:31.76,单行注解,NTP,0,0,0,,If somehow we actually find a unicorn,
@@ -789,21 +789,21 @@ Dialogue: 0,0:51:31.98,0:51:35.59,单行注解,NTP,0,0,0,,So we'll have to appro
 Dialogue: 0,0:51:35.61,0:51:36.79,单行注解,NTP,0,0,0,,Next.
 Dialogue: 0,0:51:38.38,0:51:40.69,单行注解,NTP,0,0,0,,Then there are these deadly spikes.
 Dialogue: 0,0:51:40.71,0:51:43.70,单行注解,NTP,0,0,0,,Ha ha ha ha! Geronimo!
-Dialogue: 0,0:51:43.73,0:51:48.43,单行注解,NTP,0,0,0,,Covered with enough poison to blow your mind... literally.
+Dialogue: 0,0:51:43.73,0:51:48.43,单行注解,NTP,0,0,0,,Covered with enough poison to blow your mind...literally.
 Dialogue: 0,0:51:48.45,0:51:50.45,单行注解,NTP,0,0,0,,Ouch! Ha ha ha ha ha!
-Dialogue: 0,0:51:50.47,0:51:51.92,单行注解,NTP,0,0,0,,Ah... Good to know.
+Dialogue: 0,0:51:50.47,0:51:51.92,单行注解,NTP,0,0,0,,Ah...Good to know.
 Dialogue: 0,0:51:51.94,0:51:53.16,单行注解,NTP,0,0,0,,So here's the plan.
 Dialogue: 0,0:51:53.18,0:51:56.21,单行注解,NTP,0,0,0,,You're the getaway driver.
 Dialogue: 0,0:51:56.31,0:51:57.75,单行注解,NTP,0,0,0,,So you'll wait in the boat.
 Dialogue: 0,0:51:57.77,0:51:59.96,单行注解,NTP,0,0,0,,Wait, hold on. Wait in the boat?
-Dialogue: 0,0:51:59.98,0:52:03.63,单行注解,NTP,0,0,0,,But... I want to be in on the actions!
+Dialogue: 0,0:51:59.98,0:52:03.63,单行注解,NTP,0,0,0,,But...I want to be in on the actions!
 Dialogue: 0,0:52:04.14,0:52:08.24,单行注解,NTP,0,0,0,,The getaway driver is the most crucial part of any plan.
 Dialogue: 0,0:52:08.26,0:52:12.82,单行注解,NTP,0,0,0,,Do you know how hard it is doing nothing, touching nothing,
 Dialogue: 0,0:52:12.84,0:52:15.91,单行注解,NTP,0,0,0,,with all of the adrenaline coursing through your veinsae?
 Dialogue: 0,0:52:15.93,0:52:17.65,单行注解,NTP,0,0,0,,and you must wait.
 Dialogue: 0,0:52:17.67,0:52:19.64,单行注解,NTP,0,0,0,,Can I count on you?
 Dialogue: 0,0:52:20.64,0:52:22.46,单行注解,NTP,0,0,0,,I guess so?
-Dialogue: 0,0:52:22.49,0:52:26.28,单行注解,NTP,0,0,0,,So... I'll climb up the cube and enter here.
+Dialogue: 0,0:52:22.49,0:52:26.28,单行注解,NTP,0,0,0,,So...I'll climb up the cube and enter here.
 Dialogue: 0,0:52:26.31,0:52:28.91,单行注解,NTP,0,0,0,,Then once I'm inside, I'll find the diamond.
 Dialogue: 0,0:52:28.93,0:52:33.03,单行注解,NTP,0,0,0,,I've underestimated Bratt before. It's not going to be easy.
 Dialogue: 0,0:52:33.05,0:52:35.73,单行注解,NTP,0,0,0,,I think we can handle it.
@@ -833,19 +833,19 @@ Dialogue: 0,0:53:55.01,0:53:57.50,单行注解,NTP,0,0,0,,Wow, that was crazy! W
 Dialogue: 0,0:53:57.52,0:53:59.73,单行注解,NTP,0,0,0,,That was totally humiliating!
 Dialogue: 0,0:53:59.76,0:54:02.98,单行注解,NTP,0,0,0,,Taking a bite of that cheese was the stupidest thing I've ever done.
 Dialogue: 0,0:54:03.00,0:54:04.40,单行注解,NTP,0,0,0,,Why did I listen to you?
-Dialogue: 0,0:54:04.42,0:54:06.81,单行注解,NTP,0,0,0,,Right, but it's over now, so. . .
-Dialogue: 0,0:54:06.84,0:54:09.63,单行注解,NTP,0,0,0,,Ugh, here we go. Niko. . .
+Dialogue: 0,0:54:04.42,0:54:06.81,单行注解,NTP,0,0,0,,Right, but it's over now, so...
+Dialogue: 0,0:54:06.84,0:54:09.63,单行注解,NTP,0,0,0,,Ugh, here we go. Niko...
 Dialogue: 0,0:54:10.30,0:54:13.94,单行注解,NTP,0,0,0,,You! You refuse my son's engagement pig?
 Dialogue: 0,0:54:13.96,0:54:14.57,单行注解,NTP,0,0,0,,What?
 Dialogue: 0,0:54:14.59,0:54:19.82,单行注解,NTP,0,0,0,,May you and your daughter die a slow death and be buried with onions!
 Dialogue: 0,0:54:21.87,0:54:23.58,单行注解,NTP,0,0,0,,Alright, lady. That's it!
-Dialogue: 0,0:54:23.61,0:54:29.01,单行注解,NTP,0,0,0,,Nobody... nobody! ... curses my daughter! You got that?
+Dialogue: 0,0:54:23.61,0:54:29.01,单行注解,NTP,0,0,0,,Nobody...nobody! ...curses my daughter! You got that?
 Dialogue: 0,0:54:29.03,0:54:31.99,单行注解,NTP,0,0,0,,Because if you mess with Margo, you mess with me!
 Dialogue: 0,0:54:32.01,0:54:36.45,单行注解,NTP,0,0,0,,And I promise, you do not want to mess with me!
 Dialogue: 0,0:54:36.47,0:54:38.80,单行注解,NTP,0,0,0,,Do you understand me?
 Dialogue: 0,0:54:38.83,0:54:39.94,单行注解,NTP,0,0,0,,Yes, yes.
 Dialogue: 0,0:54:39.97,0:54:42.87,单行注解,NTP,0,0,0,,Good. Now, GET!
-Dialogue: 0,0:54:46.12,0:54:49.05,单行注解,NTP,0,0,0,,Look, Margo. I think we just need to... Oh.
+Dialogue: 0,0:54:46.12,0:54:49.05,单行注解,NTP,0,0,0,,Look, Margo. I think we just need to...Oh.
 Dialogue: 0,0:54:52.54,0:54:53.84,单行注解,NTP,0,0,0,,Yes!
 Dialogue: 0,0:54:53.86,0:54:56.25,单行注解,NTP,0,0,0,,Oh! I've to tell Gru!
 Dialogue: 0,0:55:12.20,0:55:14.86,单行注解,NTP,0,0,0,,- Can we go back now? - Already?
@@ -855,18 +855,18 @@ Dialogue: 0,0:55:19.97,0:55:21.97,单行注解,NTP,0,0,0,,I don't understand.
 Dialogue: 0,0:55:22.00,0:55:24.32,单行注解,NTP,0,0,0,,I did exactly what the man said.
 Dialogue: 0,0:55:24.34,0:55:27.76,单行注解,NTP,0,0,0,,You mean that one- eyed, scar- faced man that everybody laughed at?
 Dialogue: 0,0:55:27.79,0:55:29.98,单行注解,NTP,0,0,0,,Yeah. It makes no sense.
-Dialogue: 0,0:55:30.01,0:55:32.70,单行注解,NTP,0,0,0,,Look, Agnes, maybe we're not. . .
+Dialogue: 0,0:55:30.01,0:55:32.70,单行注解,NTP,0,0,0,,Look, Agnes, maybe we're not...
 Dialogue: 0,0:55:44.05,0:55:47.44,单行注解,NTP,0,0,0,,My whole life has been building to this moment!
-Dialogue: 0,0:55:53.29,0:55:54.52,单行注解,NTP,0,0,0,,Um. It's a. . .
+Dialogue: 0,0:55:53.29,0:55:54.52,单行注解,NTP,0,0,0,,Um. It's a...
 Dialogue: 0,0:55:54.55,0:55:56.36,单行注解,NTP,0,0,0,,Unicorn!
 Dialogue: 0,0:55:58.19,0:56:00.31,单行注解,NTP,0,0,0,,I can't believe it!
 Dialogue: 0,0:56:00.73,0:56:03.32,单行注解,NTP,0,0,0,,I'm gonna name you Lucky!
-Dialogue: 0,0:56:03.51,0:56:06.65,单行注解,NTP,0,0,0,,Oh, Lucky, stop it. . .
+Dialogue: 0,0:56:03.51,0:56:06.65,单行注解,NTP,0,0,0,,Oh, Lucky, stop it...
 Dialogue: 0,0:56:07.70,0:56:10.66,单行注解,NTP,0,0,0,,Yeah. I'll let someone else burst her bubble.
 Dialogue: 0,0:56:17.19,0:56:20.92,单行注解,NTP,0,0,0,,Look at us! Two brothers pulling a heist.
 Dialogue: 0,0:56:20.94,0:56:26.56,单行注解,NTP,0,0,0,,And that diamond will make us the richest, most powerful villains in the world!
 Dialogue: 0,0:56:26.79,0:56:28.29,单行注解,NTP,0,0,0,,Right, Brother?
-Dialogue: 0,0:56:29.38,0:56:32.45,单行注解,NTP,0,0,0,,Right. Yeah. Yeah. . .
+Dialogue: 0,0:56:29.38,0:56:32.45,单行注解,NTP,0,0,0,,Right. Yeah. Yeah...
 Dialogue: 0,0:56:35.95,0:56:39.83,单行注解,NTP,0,0,0,,Bravo! Bravissimo! You're amazing!
 Dialogue: 0,0:56:39.85,0:56:42.25,单行注解,NTP,0,0,0,,I'm so sorry. I'm so embarrassed. I was very rude.
 Dialogue: 0,0:56:42.27,0:56:44.48,单行注解,NTP,0,0,0,,- And you were always such a gentleman. - You did it! You did it!
@@ -877,7 +877,7 @@ Dialogue: 0,0:57:03.70,0:57:06.13,单行注解,NTP,0,0,0,,I'm going in. Take the
 Dialogue: 0,0:57:06.16,0:57:08.72,单行注解,NTP,0,0,0,,I still don't see why I can't go with you.
 Dialogue: 0,0:57:08.74,0:57:10.27,单行注解,NTP,0,0,0,,Hey. Hey, we discussed this.
 Dialogue: 0,0:57:10.30,0:57:12.75,单行注解,NTP,0,0,0,,Now is not the time to mess with the plan.
-Dialogue: 0,0:57:12.78,0:57:14.56,单行注解,NTP,0,0,0,,Fine. . .
+Dialogue: 0,0:57:12.78,0:57:14.56,单行注解,NTP,0,0,0,,Fine...
 Dialogue: 0,0:57:27.80,0:57:29.59,单行注解,NTP,0,0,0,,- Hey, brother. - What?
 Dialogue: 0,0:57:29.61,0:57:32.35,单行注解,NTP,0,0,0,,I told you, you were supposed to stay with the boat!
 Dialogue: 0,0:57:32.38,0:57:35.27,单行注解,NTP,0,0,0,,Oh, I didn't think you meant that literally.
@@ -894,7 +894,7 @@ Dialogue: 0,0:58:07.36,0:58:08.64,单行注解,NTP,0,0,0,,Coming.
 Dialogue: 0,0:58:14.66,0:58:15.87,单行注解,NTP,0,0,0,,Coming.
 Dialogue: 0,0:58:20.63,0:58:21.73,单行注解,NTP,0,0,0,,Come on!
 Dialogue: 0,0:58:27.60,0:58:29.00,单行注解,NTP,0,0,0,,It's a scanning device!
-Dialogue: 0,0:58:29.33,0:58:30.95,单行注解,NTP,0,0,0,,Quick... camouflage mode!
+Dialogue: 0,0:58:29.33,0:58:30.95,单行注解,NTP,0,0,0,,Quick...camouflage mode!
 Dialogue: 0,0:58:31.82,0:58:33.80,单行注解,NTP,0,0,0,,Freeze! And close your eyes.
 Dialogue: 0,0:58:33.82,0:58:35.63,单行注解,NTP,0,0,0,,And cover your mouth!
 Dialogue: 0,0:58:41.40,0:58:43.40,单行注解,NTP,0,0,0,,Okay. Take my hand!
@@ -914,7 +914,7 @@ Dialogue: 0,1:00:33.13,1:00:34.81,单行注解,NTP,0,0,0,,Go, go. Go, go, go!
 Dialogue: 0,1:00:47.58,1:00:49.48,单行注解,NTP,0,0,0,,Huh? Hey, come back.
 Dialogue: 0,1:00:59.54,1:01:02.83,单行注解,NTP,0,0,0,,Hello. Hello. Hello.
 Dialogue: 0,1:01:09.46,1:01:11.40,单行注解,NTP,0,0,0,,You jacket is located within easy reach.
-Dialogue: 0,1:01:11.43,1:01:14.35,单行注解,NTP,0,0,0,,Inflate your jacket by pulling the toggle. Like this. . .
+Dialogue: 0,1:01:11.43,1:01:14.35,单行注解,NTP,0,0,0,,Inflate your jacket by pulling the toggle. Like this...
 Dialogue: 0,1:01:14.38,1:01:16.68,单行注解,NTP,0,0,0,,Thank for your attention, enjoy your flight.
 Dialogue: 0,1:01:22.36,1:01:26.23,单行注解,NTP,0,0,0,,Straight ahead. Straight ahead. Straight ahead.
 Dialogue: 0,1:01:27.73,1:01:30.27,单行注解,NTP,0,0,0,,Bud- Buddy. Bud- Buddy!
@@ -923,12 +923,12 @@ Dialogue: 0,1:01:34.35,1:01:36.10,单行注解,NTP,0,0,0,,It looks like it's rig
 Dialogue: 0,1:01:36.12,1:01:38.70,单行注解,NTP,0,0,0,,Okay! What do I do? Should I wait in the vent?
 Dialogue: 0,1:01:38.72,1:01:40.49,单行注解,NTP,0,0,0,,No. Come with me.
 Dialogue: 0,1:01:55.76,1:01:58.28,单行注解,NTP,0,0,0,,Yes, I'd like to thank the Academy.
-Dialogue: 0,1:02:00.51,1:02:02.11,单行注解,NTP,0,0,0,,- I can... - No no no no no. . .
+Dialogue: 0,1:02:00.51,1:02:02.11,单行注解,NTP,0,0,0,,- I can...- No no no no no...
 Dialogue: 0,1:02:02.13,1:02:04.58,单行注解,NTP,0,0,0,,- Why? I can do it. - Don't, don't, don't!
 Dialogue: 0,1:02:04.60,1:02:07.75,单行注解,NTP,0,0,0,,Yes, yes, Molly Ringwald. I will take you to the prom.
-Dialogue: 0,1:02:07.77,1:02:09.61,单行注解,NTP,0,0,0,,Where... What. . .
+Dialogue: 0,1:02:07.77,1:02:09.61,单行注解,NTP,0,0,0,,Where...What...
 Dialogue: 0,1:02:09.63,1:02:11.34,单行注解,NTP,0,0,0,,Who's there? Who's there?
-Dialogue: 0,1:02:18.40,1:02:21.34,单行注解,NTP,0,0,0,,Ninety nine red balloons. . .
+Dialogue: 0,1:02:18.40,1:02:21.34,单行注解,NTP,0,0,0,,Ninety nine red balloons...
 Dialogue: 0,1:02:21.37,1:02:23.19,单行注解,NTP,0,0,0,,Whoops! Almost forgot.
 Dialogue: 0,1:02:33.79,1:02:36.11,单行注解,NTP,0,0,0,,Shhh, shhh. Over here!
 Dialogue: 0,1:02:37.72,1:02:39.26,单行注解,NTP,0,0,0,,Stay close!
@@ -955,7 +955,7 @@ Dialogue: 0,1:05:05.95,1:05:07.17,单行注解,NTP,0,0,0,,What?
 Dialogue: 0,1:05:08.65,1:05:10.88,单行注解,NTP,0,0,0,,Hey, guys. Hold on!
 Dialogue: 0,1:05:10.90,1:05:12.81,单行注解,NTP,0,0,0,,Lucy!
 Dialogue: 0,1:05:19.51,1:05:22.29,单行注解,NTP,0,0,0,,Thank you for saving us! Woo!
-Dialogue: 0,1:05:22.31,1:05:24.83,单行注解,NTP,0,0,0,,Look! We got the diamond! And we're going to. . .
+Dialogue: 0,1:05:22.31,1:05:24.83,单行注解,NTP,0,0,0,,Look! We got the diamond! And we're going to...
 Dialogue: 0,1:05:24.85,1:05:28.57,单行注解,NTP,0,0,0,,Take it to the AVL and get our jobs back!
 Dialogue: 0,1:05:28.60,1:05:29.37,单行注解,NTP,0,0,0,,Wait!
 Dialogue: 0,1:05:29.40,1:05:30.99,单行注解,NTP,0,0,0,,What? That's amazing!
@@ -993,9 +993,9 @@ Dialogue: 0,1:06:54.51,1:06:56.43,单行注解,NTP,0,0,0,,We're no longer brothe
 Dialogue: 0,1:06:56.46,1:06:58.32,单行注解,NTP,0,0,0,,That's fine with me!
 Dialogue: 0,1:07:40.72,1:07:44.46,单行注解,NTP,0,0,0,,Gru! I found a unicorn!
 Dialogue: 0,1:07:46.32,1:07:48.48,单行注解,NTP,0,0,0,,My life is complete!
-Dialogue: 0,1:07:50.81,1:07:55.47,单行注解,NTP,0,0,0,,Honey, that's... that's not actually a unicorn.
+Dialogue: 0,1:07:50.81,1:07:55.47,单行注解,NTP,0,0,0,,Honey, that's...that's not actually a unicorn.
 Dialogue: 0,1:07:57.14,1:08:00.79,单行注解,NTP,0,0,0,,But- But he has one horn.
-Dialogue: 0,1:08:00.93,1:08:03.99,单行注解,NTP,0,0,0,,I'm- I'm sorry, sweetie, but. . .
+Dialogue: 0,1:08:00.93,1:08:03.99,单行注解,NTP,0,0,0,,I'm- I'm sorry, sweetie, but...
 Dialogue: 0,1:08:04.02,1:08:06.83,单行注解,NTP,0,0,0,,he's just a goat.
 Dialogue: 0,1:08:06.86,1:08:09.97,单行注解,NTP,0,0,0,,Life is just like that sometimes.
 Dialogue: 0,1:08:10.00,1:08:12.43,单行注解,NTP,0,0,0,,We're hoping for a unicorn
@@ -1009,7 +1009,7 @@ Dialogue: 0,1:08:36.26,1:08:38.28,单行注解,NTP,0,0,0,,Can you get the rest o
 Dialogue: 0,1:08:38.30,1:08:40.11,单行注解,NTP,0,0,0,,Come on, girls, let's go!
 Dialogue: 0,1:08:40.13,1:08:44.23,单行注解,NTP,0,0,0,,Let's get physical, physical!
 Dialogue: 0,1:08:50.85,1:08:52.95,单行注解,NTP,0,0,0,,Change of plan, girls.
-Dialogue: 0,1:08:52.97,1:08:55.13,单行注解,NTP,0,0,0,,Instead of going home. . .
+Dialogue: 0,1:08:52.97,1:08:55.13,单行注解,NTP,0,0,0,,Instead of going home...
 Dialogue: 0,1:08:55.16,1:08:57.33,单行注解,NTP,0,0,0,,Eyebrows. Ow!
 Dialogue: 0,1:08:57.46,1:09:00.67,单行注解,NTP,0,0,0,,We're going to Hollywood!
 Dialogue: 0,1:09:01.75,1:09:04.77,单行注解,NTP,0,0,0,,Now that's what I call acting.
@@ -1020,9 +1020,9 @@ Dialogue: 0,1:09:19.26,1:09:21.73,单行注解,NTP,0,0,0,,What? No!
 Dialogue: 0,1:09:24.01,1:09:25.95,单行注解,NTP,0,0,0,,Dru! Dru!
 Dialogue: 0,1:09:25.96,1:09:28.68,单行注解,NTP,0,0,0,,Go away. I don't want to talk to you.
 Dialogue: 0,1:09:28.71,1:09:31.33,单行注解,NTP,0,0,0,,Bratt has the girls!
-Dialogue: 0,1:09:37.62,1:09:39.59,单行注解,NTP,0,0,0,,Listen, brother. What. . .
-Dialogue: 0,1:09:39.63,1:09:41.88,单行注解,NTP,0,0,0,,- About what I said. - No, I'm the one. . .
-Dialogue: 0,1:09:41.91,1:09:43.67,单行注解,NTP,0,0,0,,But I shouldn't have. . .
+Dialogue: 0,1:09:37.62,1:09:39.59,单行注解,NTP,0,0,0,,Listen, brother. What...
+Dialogue: 0,1:09:39.63,1:09:41.88,单行注解,NTP,0,0,0,,- About what I said. - No, I'm the one...
+Dialogue: 0,1:09:41.91,1:09:43.67,单行注解,NTP,0,0,0,,But I shouldn't have...
 Dialogue: 0,1:09:43.70,1:09:45.98,单行注解,NTP,0,0,0,,I'm- I'm sorry.
 Dialogue: 0,1:09:46.93,1:09:49.36,单行注解,NTP,0,0,0,,I'm so sorry, Gru.
 Dialogue: 0,1:09:51.58,1:09:53.24,单行注解,NTP,0,0,0,,Oh, look out!
@@ -1032,13 +1032,13 @@ Dialogue: 0,1:09:58.52,1:10:00.32,单行注解,NTP,0,0,0,,Caramba! Caramba!
 Dialogue: 0,1:10:00.44,1:10:03.10,单行注解,NTP,0,0,0,,CARAMBAAAAA!
 Dialogue: 0,1:10:03.12,1:10:04.31,单行注解,NTP,0,0,0,,Mel?
 Dialogue: 0,1:10:04.34,1:10:06.08,单行注解,NTP,0,0,0,,Gru?
-Dialogue: 0,1:10:07.43,1:10:09.98,单行注解,NTP,0,0,0,,Got to turn this thing around. . .
+Dialogue: 0,1:10:07.43,1:10:09.98,单行注解,NTP,0,0,0,,Got to turn this thing around...
 Dialogue: 0,1:10:10.61,1:10:11.69,单行注解,NTP,0,0,0,,Gru!
-Dialogue: 0,1:10:11.71,1:10:16.23,单行注解,NTP,0,0,0,,Wait up! GRUUUUU. . .
+Dialogue: 0,1:10:11.71,1:10:16.23,单行注解,NTP,0,0,0,,Wait up! GRUUUUU...
 Dialogue: 0,1:10:40.11,1:10:43.55,单行注解,NTP,0,0,0,,Hello, Hollywood!
 Dialogue: 0,1:10:43.57,1:10:46.81,单行注解,NTP,0,0,0,,I'm back and bigger than ever.
 Dialogue: 0,1:10:48.32,1:10:49.87,单行注解,NTP,0,0,0,,I'm scared!
-Dialogue: 0,1:10:49.89,1:10:52.62,单行注解,NTP,0,0,0,,Thank you. Thank you so. . .
+Dialogue: 0,1:10:49.89,1:10:52.62,单行注解,NTP,0,0,0,,Thank you. Thank you so...
 Dialogue: 0,1:10:58.17,1:11:01.60,单行注解,NTP,0,0,0,,You can't leave me here! I'm famous!
 Dialogue: 0,1:11:02.14,1:11:04.84,单行注解,NTP,0,0,0,,Clive, arm the cannons.
 Dialogue: 0,1:11:06.94,1:11:09.63,单行注解,NTP,0,0,0,,Chew on this!
@@ -1078,7 +1078,7 @@ Dialogue: 0,1:13:56.15,1:13:58.19,单行注解,NTP,0,0,0,,There's more where tha
 Dialogue: 0,1:13:58.22,1:14:00.83,单行注解,NTP,0,0,0,,It'll take more than that to stop me.
 Dialogue: 0,1:14:00.86,1:14:03.76,单行注解,NTP,0,0,0,,Bratt pack, go get that barf bag.
 Dialogue: 0,1:14:11.55,1:14:13.81,单行注解,NTP,0,0,0,,Oh, incoming!
-Dialogue: 0,1:14:16.26,1:14:17.76,单行注解,NTP,0,0,0,,You, little. . .
+Dialogue: 0,1:14:16.26,1:14:17.76,单行注解,NTP,0,0,0,,You, little...
 Dialogue: 0,1:14:25.08,1:14:26.94,单行注解,NTP,0,0,0,,Quick! Jump!
 Dialogue: 0,1:14:29.08,1:14:30.46,单行注解,NTP,0,0,0,,Boners!
 Dialogue: 0,1:14:30.48,1:14:33.07,单行注解,NTP,0,0,0,,Did you see that, Clive? All gone.
@@ -1100,7 +1100,7 @@ Dialogue: 0,1:15:43.08,1:15:44.74,单行注解,NTP,0,0,0,,- Villain! - Villain!
 Dialogue: 0,1:15:44.77,1:15:48.26,单行注解,NTP,0,0,0,,You guys too! You guys are villains!
 Dialogue: 0,1:16:00.72,1:16:02.94,单行注解,NTP,0,0,0,,Look at what we have here.
 Dialogue: 0,1:16:02.96,1:16:07.59,单行注解,NTP,0,0,0,,Sorry, Gru. This is going to be a total burn.
-Dialogue: 0,1:16:12.32,1:16:15.68,单行注解,NTP,0,0,0,,Oh, no. No! No, no, no, no. . .
+Dialogue: 0,1:16:12.32,1:16:15.68,单行注解,NTP,0,0,0,,Oh, no. No! No, no, no, no...
 Dialogue: 0,1:16:19.54,1:16:22.83,单行注解,NTP,0,0,0,,I've been a bad boy!
 Dialogue: 0,1:16:30.27,1:16:34.23,单行注解,NTP,0,0,0,,Nobody messes with my brother!
 Dialogue: 0,1:16:45.30,1:16:47.55,单行注解,NTP,0,0,0,,What? What's happening?
@@ -1119,7 +1119,7 @@ Dialogue: 0,1:17:51.81,1:17:53.25,单行注解,NTP,0,0,0,,My turn.
 Dialogue: 0,1:18:17.82,1:18:19.70,单行注解,NTP,0,0,0,,Game over!
 Dialogue: 0,1:18:22.08,1:18:25.31,单行注解,NTP,0,0,0,,Is this what you're looking for?
 Dialogue: 0,1:18:25.33,1:18:26.72,单行注解,NTP,0,0,0,,No!
-Dialogue: 0,1:18:36.48,1:18:38.80,单行注解,NTP,0,0,0,,No... !
+Dialogue: 0,1:18:36.48,1:18:38.80,单行注解,NTP,0,0,0,,No...!
 Dialogue: 0,1:18:42.05,1:18:44.51,单行注解,NTP,0,0,0,,Curse you, Gru!
 Dialogue: 0,1:18:44.95,1:18:46.70,单行注解,NTP,0,0,0,,Curse you. .
 Dialogue: 0,1:18:46.73,1:18:49.44,单行注解,NTP,0,0,0,,Bill, over there! Robert, work your pick.
@@ -1146,7 +1146,7 @@ Dialogue: 0,1:20:42.22,1:20:43.40,单行注解,NTP,0,0,0,,Huh, got it?
 Dialogue: 0,1:20:43.42,1:20:46.60,单行注解,NTP,0,0,0,,I make no promises. Love you!
 Dialogue: 0,1:20:46.62,1:20:48.55,单行注解,NTP,0,0,0,,Uh- huh, right.
 Dialogue: 0,1:20:48.76,1:20:50.41,单行注解,NTP,0,0,0,,I love you too.
-Dialogue: 0,1:20:53.21,1:20:55.05,单行注解,NTP,0,0,0,,Alright, every... Go. Go.
+Dialogue: 0,1:20:53.21,1:20:55.05,单行注解,NTP,0,0,0,,Alright, every...Go. Go.
 Dialogue: 0,1:20:55.08,1:20:56.55,单行注解,NTP,0,0,0,,Go to bed.
 Dialogue: 0,1:21:00.75,1:21:02.80,单行注解,NTP,0,0,0,,Hey. Guys. Come on.
 Dialogue: 0,1:21:19.89,1:21:21.89,单行注解,NTP,0,0,0,,What the heck is happening?
