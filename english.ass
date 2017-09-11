@@ -263,20 +263,20 @@ Dialogue: 0,0:16:00.00,0:16:03.87,单行注解,,0,0,0,,You're in charge now, eh?
 Dialogue: 0,0:16:04.95,0:16:07.86,单行注解,,0,0,0,,Yipa! Yipo! Yippee!
 Dialogue: 0,0:16:07.88,0:16:11.40,单行注解,,0,0,0,,Aruba- ruba- ruba- ruba!
 Dialogue: 0,0:16:12.09,0:16:13.72,单行注解,,0,0,0,,Jeesh!
-Dialogue: 0,0:16:14.77,0:16:14.89,单行注解,,0,0,0,,{\c&H00FFFF&\pos(52. 8, 245. 36)}b{\c}\N{\c&H00FFFF&}P{\c}
-Dialogue: 0,0:16:14.89,0:16:15.00,单行注解,,0,0,0,,{\c&H00FFFF&\pos(52. 8, 245. 36)}ba{\c}\N{\c&H00FFFF&}PA{\c}
-Dialogue: 0,0:16:15.00,0:16:15.11,单行注解,,0,0,0,,{\c&H00FFFF&}PAR{\c}
-Dialogue: 0,0:16:15.11,0:16:15.22,单行注解,,0,0,0,,{\c&H00FFFF&}PARI{\c}
-Dialogue: 0,0:16:15.22,0:16:15.34,单行注解,,0,0,0,,{\c&H00FFFF&}PARIS{\c}
-Dialogue: 0,0:16:15.34,0:16:15.45,单行注解,,0,0,0,,{\c&H00FFFF&}PARIS, {\c}
-Dialogue: 0,0:16:15.45,0:16:15.56,单行注解,,0,0,0,,{\c&H00FFFF&}PARIS, {\c}
-Dialogue: 0,0:16:15.56,0:16:15.67,单行注解,,0,0,0,,{\c&H00FFFF&}PARIS, F{\c}
-Dialogue: 0,0:16:15.68,0:16:15.79,单行注解,,0,0,0,,{\c&H00FFFF&}PARIS, FR{\c}
-Dialogue: 0,0:16:15.79,0:16:15.90,单行注解,,0,0,0,,{\c&H00FFFF&}PARIS, FRA{\c}
-Dialogue: 0,0:16:15.90,0:16:16.01,单行注解,,0,0,0,,{\c&H00FFFF&}PARIS, FRAN{\c}
-Dialogue: 0,0:16:16.01,0:16:16.12,单行注解,,0,0,0,,{\c&H00FFFF&}PARIS, FRANC{\c}
-Dialogue: 0,0:16:16.13,0:16:16.24,单行注解,,0,0,0,,{\c&H00FFFF&}PARIS, FRANCE{\c}
-Dialogue: 0,0:16:16.24,0:16:22.28,单行注解,,0,0,0,,{\c&H00FFFF&}PARIS, FRANCE{\c}
+Dialogue: 0,0:16:14.77,0:16:14.89,单行注解,,0,0,0,,b\NP
+Dialogue: 0,0:16:14.89,0:16:15.00,单行注解,,0,0,0,,ba\NPA
+Dialogue: 0,0:16:15.00,0:16:15.11,单行注解,,0,0,0,,PAR
+Dialogue: 0,0:16:15.11,0:16:15.22,单行注解,,0,0,0,,PARI
+Dialogue: 0,0:16:15.22,0:16:15.34,单行注解,,0,0,0,,PARIS
+Dialogue: 0,0:16:15.34,0:16:15.45,单行注解,,0,0,0,,PARIS,
+Dialogue: 0,0:16:15.45,0:16:15.56,单行注解,,0,0,0,,PARIS,
+Dialogue: 0,0:16:15.56,0:16:15.67,单行注解,,0,0,0,,PARIS, F
+Dialogue: 0,0:16:15.68,0:16:15.79,单行注解,,0,0,0,,PARIS, FR
+Dialogue: 0,0:16:15.79,0:16:15.90,单行注解,,0,0,0,,PARIS, FRA
+Dialogue: 0,0:16:15.90,0:16:16.01,单行注解,,0,0,0,,PARIS, FRAN
+Dialogue: 0,0:16:16.01,0:16:16.12,单行注解,,0,0,0,,PARIS, FRANC
+Dialogue: 0,0:16:16.13,0:16:16.24,单行注解,,0,0,0,,PARIS, FRANCE
+Dialogue: 0,0:16:16.24,0:16:22.28,单行注解,,0,0,0,,PARIS, FRANCE
 Dialogue: 0,0:16:26.12,0:16:27.13,单行注解,,0,0,0,,
 Dialogue: 0,0:16:33.18,0:16:35.52,单行注解,,0,0,0,,Monsieur Pompo.
 Dialogue: 0,0:16:35.75,0:16:41.30,单行注解,,0,0,0,,To what do we owe the presence of the world's foremost gem expert?
@@ -714,8 +714,8 @@ Dialogue: 0,0:45:30.97,0:45:33.37,单行注解,NTP,0,0,0,,But you know what?
 Dialogue: 0,0:45:33.50,0:45:37.11,单行注解,NTP,0,0,0,,there's a chance that you might not find one.
 Dialogue: 0,0:45:39.65,0:45:40.83,单行注解,NTP,0,0,0,,I'm. . .
 Dialogue: 0,0:45:40.86,0:45:45.45,单行注解,NTP,0,0,0,,It might not be good unicorn finding weather.
-Dialogue: 0,0:45:48.00,0:45:51.34,单行注解,NTP,0,0,0,,它们不好找\NThey're tricky to find themâ€?
-Dialogue: 0,0:45:51.37,0:45:53.33,单行注解,NTP,0,0,0,,我也不清楚\Nand I don't knowâ€?
+Dialogue: 0,0:45:48.00,0:45:51.34,单行注解,NTP,0,0,0,,They're tricky to find them?
+Dialogue: 0,0:45:51.37,0:45:53.33,单行注解,NTP,0,0,0,,and I don't known?
 Dialogue: 0,0:45:53.36,0:46:02.65,单行注解,NTP,0,0,0,,Maybe, just... maybe unicorns don't really ex. . .
 Dialogue: 0,0:46:03.13,0:46:08.02,单行注解,NTP,0,0,0,,... explore that part of the woods.
 Dialogue: 0,0:46:10.13,0:46:12.42,单行注解,NTP,0,0,0,,But the man said
@@ -799,7 +799,7 @@ Dialogue: 0,0:51:57.77,0:51:59.96,单行注解,NTP,0,0,0,,Wait, hold on. Wait in
 Dialogue: 0,0:51:59.98,0:52:03.63,单行注解,NTP,0,0,0,,But... I want to be in on the actions!
 Dialogue: 0,0:52:04.14,0:52:08.24,单行注解,NTP,0,0,0,,The getaway driver is the most crucial part of any plan.
 Dialogue: 0,0:52:08.26,0:52:12.82,单行注解,NTP,0,0,0,,Do you know how hard it is doing nothing, touching nothing,
-Dialogue: 0,0:52:12.84,0:52:15.91,单行注解,NTP,0,0,0,,with all of the adrenaline coursing through your veinsâ€?
+Dialogue: 0,0:52:12.84,0:52:15.91,单行注解,NTP,0,0,0,,with all of the adrenaline coursing through your veinsae?
 Dialogue: 0,0:52:15.93,0:52:17.65,单行注解,NTP,0,0,0,,and you must wait.
 Dialogue: 0,0:52:17.67,0:52:19.64,单行注解,NTP,0,0,0,,Can I count on you?
 Dialogue: 0,0:52:20.64,0:52:22.46,单行注解,NTP,0,0,0,,I guess so?
