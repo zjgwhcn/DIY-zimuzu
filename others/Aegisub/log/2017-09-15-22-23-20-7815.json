@@ -1,0 +1,5933 @@
+{
+	"open" : [
+		1505485400,
+		214713
+	]
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\config.json\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 214713
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_013de9017c94522fded769b7d1af59f3>::operator ()",
+	"line" : 189,
+	"message" : "cleaning \"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\log\\*.json\"",
+	"sec" : 1505485400,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 214713
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_013de9017c94522fded769b7d1af59f3>::operator ()",
+	"line" : 199,
+	"message" : "cache does not need cleaning (maxsize=10485760, cursize=486350, maxfiles=100, numfiles=5), exiting",
+	"sec" : 1505485400,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 230313
+}{
+	"file" : "..\\..\\src\\command\\command.cpp",
+	"func" : "cmd::init_builtin_commands",
+	"line" : 84,
+	"message" : "Populating command map",
+	"sec" : 1505485400,
+	"section" : "command/init",
+	"severity" : 4,
+	"usec" : 230313
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Hotkey",
+	"line" : 55,
+	"message" : "Generating hotkeys.",
+	"sec" : 1505485400,
+	"section" : "hotkey/init",
+	"severity" : 4,
+	"usec" : 230313
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\hotkey.json\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 230313
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::icon_init",
+	"line" : 65,
+	"message" : "Generating 24x24, 16x16 icons",
+	"sec" : 1505485400,
+	"section" : "icon/init",
+	"severity" : 4,
+	"usec" : 230313
+}{
+	"file" : "..\\..\\libaegisub\\common\\mru.cpp",
+	"func" : "agi::MRUManager::MRUManager",
+	"line" : 48,
+	"message" : "Loading MRU List",
+	"sec" : 1505485400,
+	"section" : "agi/mru",
+	"severity" : 4,
+	"usec" : 261513
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\mru.json\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 261513
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 76,
+	"message" : "Raster: FreeType 2.5.0",
+	"sec" : 1505485400,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 76,
+	"message" : "Shaper: FriBidi 0.19.5 (SIMPLE)",
+	"sec" : 1505485400,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 76,
+	"message" : "Initialized",
+	"sec" : 1505485400,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\clean-info.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\cleantags-autoload.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\kara-templater.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\karaoke-auto-leadin.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\select-overlaps.moon\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\karaskel.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\cleantags.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\karaskel-auto4.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\strip-tags.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\utils.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\utils-auto4.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\macro-1-edgeblur.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\clean-info.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\aegisub\\util.moon\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\cleantags-autoload.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 355113
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\karaoke-auto-leadin.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 370713
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\cleantags.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 370713
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\kara-templater.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 370713
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 370713
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\karaskel.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 370713
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\karaskel-auto4.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 370713
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\utils.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 370713
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\utils-auto4.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 370713
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\aegisub\\util.moon\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 370713
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 370713
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\macro-1-edgeblur.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 386313
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\macro-2-mkfullwitdh.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 386313
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\select-overlaps.moon\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 386313
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 386313
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\unicode.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 386313
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\aegisub\\unicode.moon\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 386313
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 386313
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\strip-tags.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 386313
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\macro-2-mkfullwitdh.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 401913
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\unicode.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 401913
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\aegisub\\unicode.moon\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 401913
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 401913
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\unicode.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 417513
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\unicode.lua\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 433113
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 187,
+	"message" : "Entering FrameMain constructor",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 448713
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 207,
+	"message" : "Initializing context models",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 448713
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 211,
+	"message" : "Initializing context controls",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 448713
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 229,
+	"message" : "Initializing context frames",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 448713
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 233,
+	"message" : "Install PNG handler",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 448713
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 239,
+	"message" : "Apply saved Maximized state",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 448713
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 242,
+	"message" : "Initialize toolbar",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 448713
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 245,
+	"message" : "Initialize menu bar",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 479914
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\menu.json\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 479914
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/open/video 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/open/autosave 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: app/exit 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/paste/over 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/find_replace 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/insert/before 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/insert/after 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/insert/before/videotime 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/insert/after/videotime 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/duplicate 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/split/before 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/split/after 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/join/concatenate 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/join/keep_first 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/join/as_karaoke 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/recombine 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/split/by_karaoke 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/start 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/end 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/style 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/actor 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/effect 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/layer 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/start/selected 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/end/selected 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/style/selected 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/actor/selected 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/effect/selected 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/layer/selected 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/swap 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/select/all 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: time/continuous/start 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: time/continuous/end 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: audio/open/blank 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: audio/open/noise 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/kara-templater/Apply karaoke template - 应用卡拉OK模版 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-2-mkfullwitdh/Make fullwidth - 转换为全角字符 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/clean-info/Clean Script Info 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/cleantags-autoload/Clean Tags - 整理特效标签 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/karaoke-auto-leadin/Automatic karaoke lead-in 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-1-edgeblur/Add edgeblur - 添加边角模糊 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/select-overlaps/Select overlaps 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/strip-tags/Strip tags - 删除特效标签 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: app/toggle/toolbar 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: app/updates 16",
+	"sec" : 1505485400,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 248,
+	"message" : "Create status bar",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 251,
+	"message" : "Set icon",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 260,
+	"message" : "Create views and inner main window controls",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 361,
+	"message" : "Create background panel",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 364,
+	"message" : "Create subtitles grid",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 495514
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 370,
+	"message" : "Create video box",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 511114
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 373,
+	"message" : "Create audio box",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 573514
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 376,
+	"message" : "Create subtitle editing box",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 604714
+}{
+	"file" : "..\\..\\src\\spellchecker_hunspell.cpp",
+	"func" : "HunspellSpellChecker::OnLanguageChanged",
+	"line" : 217,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\dictionaries\\en_US.dic\"",
+	"sec" : 1505485400,
+	"section" : "dictionary/file",
+	"severity" : 3,
+	"usec" : 791914
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\dictionaries\\user_en_US.dic\"",
+	"sec" : 1505485400,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 838714
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 379,
+	"message" : "Arrange main sizers",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 854314
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 392,
+	"message" : "Perform layout",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 854314
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 394,
+	"message" : "Leaving InitContents",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 854314
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 265,
+	"message" : "Complete context initialization",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 854314
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 268,
+	"message" : "Set up drag/drop target",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 854314
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 271,
+	"message" : "Load default file",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 854314
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 274,
+	"message" : "Display main window",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 869914
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 280,
+	"message" : "Possibly perform automatic updates check",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 932314
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 296,
+	"message" : "Leaving FrameMain constructor",
+	"sec" : 1505485400,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 932314
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_013de9017c94522fded769b7d1af59f3>::operator ()",
+	"line" : 189,
+	"message" : "cleaning \"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\*.AUTOSAVE.ass\"",
+	"sec" : 1505485400,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 932314
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_013de9017c94522fded769b7d1af59f3>::operator ()",
+	"line" : 199,
+	"message" : "cache does not need cleaning (maxsize=104857600, cursize=15176, maxfiles=1000, numfiles=20), exiting",
+	"sec" : 1505485400,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 947914
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\"",
+	"sec" : 1505485406,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 552726
+}{
+	"file" : "..\\..\\src\\charset_detect.cpp",
+	"func" : "CharSetDetect::GetEncoding",
+	"line" : 64,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\" (UTF-8)",
+	"sec" : 1505485406,
+	"section" : "charset/file",
+	"severity" : 3,
+	"usec" : 552726
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\"",
+	"sec" : 1505485406,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 552726
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\"",
+	"sec" : 1505485406,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 552726
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/kara-templater/Apply karaoke template - 应用卡拉OK模版 16",
+	"sec" : 1505485406,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 583926
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-2-mkfullwitdh/Make fullwidth - 转换为全角字符 16",
+	"sec" : 1505485406,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 583926
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/clean-info/Clean Script Info 16",
+	"sec" : 1505485406,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 583926
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/cleantags-autoload/Clean Tags - 整理特效标签 16",
+	"sec" : 1505485406,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 599526
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/karaoke-auto-leadin/Automatic karaoke lead-in 16",
+	"sec" : 1505485406,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 599526
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-1-edgeblur/Add edgeblur - 添加边角模糊 16",
+	"sec" : 1505485406,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 599526
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/select-overlaps/Select overlaps 16",
+	"sec" : 1505485406,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 599526
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/strip-tags/Strip tags - 删除特效标签 16",
+	"sec" : 1505485406,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 599526
+}{
+	"file" : "..\\..\\src\\video_provider_manager.cpp",
+	"func" : "VideoProviderFactory::GetProvider",
+	"line" : 86,
+	"message" : "Dummy: file not found.",
+	"sec" : 1505485411,
+	"section" : "manager/video/provider",
+	"severity" : 4,
+	"usec" : 511935
+}{
+	"file" : "..\\..\\src\\video_provider_manager.cpp",
+	"func" : "VideoProviderFactory::GetProvider",
+	"line" : 86,
+	"message" : "YUV4MPEG: video is not in a supported format.",
+	"sec" : 1505485411,
+	"section" : "manager/video/provider",
+	"severity" : 4,
+	"usec" : 543136
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_013de9017c94522fded769b7d1af59f3>::operator ()",
+	"line" : 189,
+	"message" : "cleaning \"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\ffms2cache\\*.ffindex\"",
+	"sec" : 1505485412,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 718138
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_013de9017c94522fded769b7d1af59f3>::operator ()",
+	"line" : 199,
+	"message" : "cache does not need cleaning (maxsize=44040192, cursize=17833994, maxfiles=20, numfiles=14), exiting",
+	"sec" : 1505485412,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 718138
+}{
+	"file" : "..\\..\\src\\video_provider_manager.cpp",
+	"func" : "VideoProviderFactory::GetProvider",
+	"line" : 64,
+	"message" : "FFmpegSource: opened \"D:\\DIY字幕组\\Despicable.Me.2.2013.1080p.BluRay.x264.DTS-WiKi\\Despicable.Me.2.2013.1080p.BluRay.x264.DTS-WiKi.mkv\"",
+	"sec" : 1505485412,
+	"section" : "manager/video/provider",
+	"severity" : 3,
+	"usec" : 920938
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485413,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 208739
+}{
+	"file" : "..\\..\\src\\audio_provider.cpp",
+	"func" : "`anonymous-namespace'::provider_creator::try_create",
+	"line" : 126,
+	"message" : "Not a dummy audio URI",
+	"sec" : 1505485413,
+	"section" : "audio_provider",
+	"severity" : 4,
+	"usec" : 239939
+}{
+	"file" : "..\\..\\src\\audio_provider.cpp",
+	"func" : "`anonymous-namespace'::provider_creator::try_create",
+	"line" : 130,
+	"message" : "RIFF PCM WAV audio provider: File is not a RIFF file\nWave64 audio provider: File is not a Wave64 RIFF file",
+	"sec" : 1505485413,
+	"section" : "audio_provider",
+	"severity" : 4,
+	"usec" : 239939
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "VideoOutGL::InitTextures",
+	"line" : 107,
+	"message" : "Video size: 1920x1036",
+	"sec" : 1505485413,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 380339
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "TestTexture",
+	"line" : 69,
+	"message" : "VideoOutGL::TestTexture: 64x64",
+	"sec" : 1505485413,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 380339
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "TestTexture",
+	"line" : 69,
+	"message" : "VideoOutGL::TestTexture: 4096x4096",
+	"sec" : 1505485413,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 380339
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "VideoOutGL::DetectOpenGLCapabilities",
+	"line" : 87,
+	"message" : "Maximum texture size is 4096x4096",
+	"sec" : 1505485413,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 380339
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "TestTexture",
+	"line" : 69,
+	"message" : "VideoOutGL::TestTexture: 4096x2048",
+	"sec" : 1505485413,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 380339
+}{
+	"file" : "..\\..\\src\\video_out_gl.cpp",
+	"func" : "VideoOutGL::InitTextures",
+	"line" : 238,
+	"message" : "Using texture size: 2048x2048",
+	"sec" : 1505485413,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 395939
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485415,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 304143
+}{
+	"file" : "..\\..\\src\\audio_provider.cpp",
+	"func" : "`anonymous-namespace'::provider_creator::try_create",
+	"line" : 122,
+	"message" : "Using audio provider: FFmpegSource",
+	"sec" : 1505485416,
+	"section" : "audio_provider",
+	"severity" : 3,
+	"usec" : 305545
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\"",
+	"sec" : 1505485506,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 925128
+}{
+	"file" : "..\\..\\src\\charset_detect.cpp",
+	"func" : "CharSetDetect::GetEncoding",
+	"line" : 64,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\" (UTF-8)",
+	"sec" : 1505485506,
+	"section" : "charset/file",
+	"severity" : 3,
+	"usec" : 940728
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\"",
+	"sec" : 1505485506,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 940728
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\"",
+	"sec" : 1505485506,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 940728
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/kara-templater/Apply karaoke template - 应用卡拉OK模版 16",
+	"sec" : 1505485507,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 18729
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-2-mkfullwitdh/Make fullwidth - 转换为全角字符 16",
+	"sec" : 1505485507,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 18729
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/clean-info/Clean Script Info 16",
+	"sec" : 1505485507,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 18729
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/cleantags-autoload/Clean Tags - 整理特效标签 16",
+	"sec" : 1505485507,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 34329
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/karaoke-auto-leadin/Automatic karaoke lead-in 16",
+	"sec" : 1505485507,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 34329
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-1-edgeblur/Add edgeblur - 添加边角模糊 16",
+	"sec" : 1505485507,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 34329
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/select-overlaps/Select overlaps 16",
+	"sec" : 1505485507,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 34329
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/strip-tags/Strip tags - 删除特效标签 16",
+	"sec" : 1505485507,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 34329
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485509,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 103533
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485511,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 293537
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485805,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 684697
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485807,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 560804
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-22-30-20.AUTOSAVE.ass\"",
+	"sec" : 1505485820,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 536546
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485830,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 493116
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485850,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 636268
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485850,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 707272
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485875,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 74666
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485875,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 157671
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485877,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 181786
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505485877,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 253790
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-22-31-20.AUTOSAVE.ass\"",
+	"sec" : 1505485880,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 549979
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486010,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 260398
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486022,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 498098
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-22-34-20.AUTOSAVE.ass\"",
+	"sec" : 1505486060,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 589277
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486096,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 404325
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486106,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 787919
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486106,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 846922
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486106,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 871924
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486106,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 892925
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486106,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 908926
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486106,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 926927
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486106,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 949928
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486106,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 966929
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486106,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 986930
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 6932
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 27933
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 46934
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 65935
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 85936
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 105937
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 359952
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 381953
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 400954
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 475958
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 508960
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 528961
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 597965
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 619967
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 641968
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 662969
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 683970
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 704972
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 727973
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 748974
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 770975
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 790976
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 810978
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 830979
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 850980
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 869981
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 890982
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 920984
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486107,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 942985
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486108,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 285005
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486108,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 324007
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486108,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 349008
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486108,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 371010
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486108,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 393011
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486108,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 456014
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486108,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 482016
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-22-35-22.AUTOSAVE.ass\"",
+	"sec" : 1505486122,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 280805
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486137,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 169657
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486146,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 257177
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486146,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 285178
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486146,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 473189
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486154,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 36622
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486155,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 18678
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486155,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 568709
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486155,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 788722
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486172,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 655686
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486174,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 828811
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486175,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 900872
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486177,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 312953
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486178,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 939046
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486179,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 650087
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-22-36-20.AUTOSAVE.ass\"",
+	"sec" : 1505486180,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 618142
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486209,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 742808
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486225,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 803726
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486231,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 630060
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486234,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 81200
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486236,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 804356
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486237,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 778411
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486238,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 776468
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-22-37-20.AUTOSAVE.ass\"",
+	"sec" : 1505486240,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 631574
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486240,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 714579
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486242,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 298670
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486244,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 409791
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486245,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 946879
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486247,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 325957
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486249,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 240067
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486251,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 626203
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486253,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 581315
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486256,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 80458
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486257,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 305528
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486259,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 937679
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486263,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 311872
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486267,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 186093
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486270,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 245268
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486273,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 317444
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486274,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 739525
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486275,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 427565
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486276,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 469624
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486276,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 510627
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486280,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 391849
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486282,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 427965
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486284,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 594089
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486286,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 642206
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486288,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 881334
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486290,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 262413
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486293,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 811616
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486297,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 618834
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-22-38-20.AUTOSAVE.ass\"",
+	"sec" : 1505486300,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 646007
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486310,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 297559
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486311,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 297616
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486311,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 337619
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486312,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 631693
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486312,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 701697
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486313,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 558746
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486313,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 594748
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486315,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 267843
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486315,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 302845
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486315,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 475855
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486315,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 512857
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486315,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 715869
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486315,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 752871
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486315,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 940882
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486315,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 972884
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486321,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 559203
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486321,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 598206
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486323,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 867335
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486323,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 907338
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486325,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 612435
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486325,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 650437
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486356,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 394196
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486357,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 603265
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-22-39-20.AUTOSAVE.ass\"",
+	"sec" : 1505486360,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 659440
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486375,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 266275
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 445029
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 482031
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 510033
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 535034
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 559035
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 584037
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 613039
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 641040
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 668042
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 826051
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 868053
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 895055
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486388,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 922056
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486393,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 150298
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-22-40-20.AUTOSAVE.ass\"",
+	"sec" : 1505486420,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 671872
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486473,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 515895
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486473,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 544896
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486474,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 195934
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486474,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 738965
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-22-41-20.AUTOSAVE.ass\"",
+	"sec" : 1505486480,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 685305
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505486581,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 169052
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505486783,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 391619
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505486783,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 398619
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505487071,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 399092
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505487071,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 402092
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505487171,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 58792
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505487171,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 60792
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487175,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 646054
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487175,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 654055
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487175,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 662055
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487175,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 672056
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487175,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 718058
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487263,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 386073
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487264,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 895159
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487272,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 169575
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487279,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 285982
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487284,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 773296
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487287,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 80428
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487289,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 299555
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487290,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 253609
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487297,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 152004
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487297,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 282011
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487301,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 318242
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487345,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 895792
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487355,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 4313
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487362,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 278729
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-da9d-2267-23be-579c.ass\"",
+	"sec" : 1505487368,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 831104
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487372,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 112291
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487372,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 119292
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487372,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 127292
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487372,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 134293
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487372,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 197296
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487374,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 22401
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487387,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 128150
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487387,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 149152
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487394,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 570576
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487394,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 815590
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487394,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 843592
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487404,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 350135
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487409,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 229414
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487411,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 632552
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487411,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 971571
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487413,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 662668
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487414,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 973743
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487418,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 464943
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487418,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 647953
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487419,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 970029
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487421,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 950142
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487424,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 474286
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487427,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 91436
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487429,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 255560
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487430,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 850651
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487431,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 782704
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487431,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 808706
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487432,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 710758
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487434,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 740874
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487434,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 781876
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487441,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 12232
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487443,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 712387
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487448,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 277648
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487448,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 303649
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487467,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 455745
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487467,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 487747
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487471,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 590981
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487473,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 199073
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487479,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 594439
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487491,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 507120
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487497,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 110441
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487504,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 77839
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487508,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 212076
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c21e-3297-14cd-87ff.ass\"",
+	"sec" : 1505487514,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 640444
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505487514,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 706447
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505487527,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 311168
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505487543,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 261081
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-22-59-20.AUTOSAVE.ass\"",
+	"sec" : 1505487560,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 930091
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505487607,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 894777
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505487667,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 920211
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505487668,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 11216
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-23-01-20.AUTOSAVE.ass\"",
+	"sec" : 1505487680,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 956956
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505487772,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 987220
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505487773,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 60224
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505487775,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 908387
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505487775,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 908387
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505487775,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 908387
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505487775,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 908387
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505487775,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 908387
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505487777,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 927503
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505487777,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 932503
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505487798,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 183661
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505487798,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 293668
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-23-03-20.AUTOSAVE.ass\"",
+	"sec" : 1505487800,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 985822
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487819,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 9853
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487819,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 16853
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487819,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 23853
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487819,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 33854
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487819,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 62856
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487824,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 348158
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487824,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 694178
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487841,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 871160
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487846,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 217409
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487873,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 186951
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487876,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 394135
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487891,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 825017
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487891,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 853019
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487892,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 994084
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487895,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 259214
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487898,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 498399
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487909,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 615035
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487909,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 802046
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487919,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 15573
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487920,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 114635
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487924,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 323876
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487924,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 570890
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487953,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 216529
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487957,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 725787
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487963,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 636125
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487969,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 195443
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487969,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 227445
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487970,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 851537
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487971,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 130553
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487977,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 287906
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487978,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 85951
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487983,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 20233
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487983,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 218245
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487985,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 166356
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487987,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 89466
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487988,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 367539
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487996,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 489004
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505487996,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 520006
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505488002,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 579352
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-db99-b216-be64-d145.ass\"",
+	"sec" : 1505488011,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 233847
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505488011,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 347854
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488016,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 541151
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488021,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 151414
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488024,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 237591
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488035,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 598241
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-23-07-21.AUTOSAVE.ass\"",
+	"sec" : 1505488041,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 38552
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488044,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 500750
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488067,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 676075
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488068,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 394117
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488068,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 773138
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488070,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 940262
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488071,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 289282
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488071,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 792311
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488071,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 830313
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488071,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 869315
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488071,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 909318
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488071,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 949320
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488071,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 993322
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 29324
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 69327
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 109329
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 149331
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 189334
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 231336
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 269338
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 308340
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 359343
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 388345
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 433348
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 468350
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 508352
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 548354
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 595357
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 627359
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 670361
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 707363
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 747366
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 787368
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 827370
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 867372
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 907375
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 953377
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488072,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 986379
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 29382
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 68384
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 125387
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 146388
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 199391
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 231393
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 266395
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 306397
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 346400
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 385402
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 425404
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 465407
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 505409
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 546411
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 585413
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 625416
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 665418
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 705420
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 752423
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 784425
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 824427
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 865429
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 904432
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 946434
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488073,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 985436
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 24439
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 67441
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 104443
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 144445
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 183448
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 224450
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 263452
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 303455
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 343457
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 383459
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 423461
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 463464
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 503466
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 550469
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 582470
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Right  Context: Video  Command: video/frame/next",
+	"sec" : 1505488074,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 623473
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488076,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 848600
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488077,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 347629
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488077,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 387631
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488077,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 427633
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488077,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 467636
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488077,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 511638
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488082,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 742937
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 235965
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 275968
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 317970
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 355972
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 396975
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 435977
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 475979
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 515981
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 554984
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 594986
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 634988
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 674991
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 714993
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 754995
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 794997
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488083,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 837000
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 102,
+	"message" : "Found: Left  Context: Video  Command: video/frame/prev",
+	"sec" : 1505488087,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 802227
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488111,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 102559
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488111,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 185564
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488114,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 646762
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488114,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 716766
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488123,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 491268
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488123,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 562272
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488126,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 275427
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488126,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 349431
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-23-09-21.AUTOSAVE.ass\"",
+	"sec" : 1505488161,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 66417
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488165,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 481670
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488171,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 154994
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505488175,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 425238
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505488175,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 428239
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-7412-2375-145b-0a44.ass\"",
+	"sec" : 1505488180,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 650537
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-7412-2375-145b-0a44.ass\"",
+	"sec" : 1505488180,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 657538
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-7412-2375-145b-0a44.ass\"",
+	"sec" : 1505488180,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 664538
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-7412-2375-145b-0a44.ass\"",
+	"sec" : 1505488180,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 674539
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-7412-2375-145b-0a44.ass\"",
+	"sec" : 1505488180,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 702540
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-7412-2375-145b-0a44.ass\"",
+	"sec" : 1505488188,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 216970
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-7412-2375-145b-0a44.ass\"",
+	"sec" : 1505488192,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 526216
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488204,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 370894
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488206,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 565019
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488211,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 698313
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488211,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 719314
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488219,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 101737
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-23-10-21.AUTOSAVE.ass\"",
+	"sec" : 1505488221,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 80850
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488222,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 281918
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488235,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 676685
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488235,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 714687
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488235,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 736688
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488235,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 760689
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488235,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 783691
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488235,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 804692
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488235,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 829693
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488235,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 852695
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488235,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 877696
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488235,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 900697
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488236,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 466730
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488236,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 499732
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488236,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 523733
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488236,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 553735
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488236,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 578736
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488236,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 600737
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488236,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 621739
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488236,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 643740
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488236,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 666741
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488237,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 871810
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488237,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 914813
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488237,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 936814
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488237,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 961815
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488237,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 991817
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488238,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 16818
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488238,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 39820
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488238,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 65821
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488238,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 89823
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488238,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 122824
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488238,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 145826
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488238,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 169827
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488238,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 239831
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\\\csri-c97a-cb40-5cc0-f4ad.ass\"",
+	"sec" : 1505488238,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 270833
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505488246,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 689314
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\catalog\\Default.sty\"",
+	"sec" : 1505488246,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 691315
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\无标题.ass.2017-09-15-23-11-21.AUTOSAVE.ass\"",
+	"sec" : 1505488281,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 93282
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\config.json\"",
+	"sec" : 1505488285,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 265521
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 281522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 281522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 281522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 281522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 281522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 281522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 281522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 281522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 281522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 281522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 282522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 282522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 282522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 282522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 282522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 282522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 282522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"file" : "..\\..\\src\\auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 514,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 1505488285,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 287522
+}{
+	"close" : [
+		1505488285,
+		290522
+	]
+}

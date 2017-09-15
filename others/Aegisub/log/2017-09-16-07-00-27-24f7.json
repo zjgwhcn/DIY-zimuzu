@@ -1,0 +1,1383 @@
+{
+	"open" : [
+		1505516427,
+		409183
+	]
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\config.json\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 409183
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_013de9017c94522fded769b7d1af59f3>::operator ()",
+	"line" : 189,
+	"message" : "cleaning \"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\log\\*.json\"",
+	"sec" : 1505516427,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 409183
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_013de9017c94522fded769b7d1af59f3>::operator ()",
+	"line" : 199,
+	"message" : "cache does not need cleaning (maxsize=10485760, cursize=752796, maxfiles=100, numfiles=8), exiting",
+	"sec" : 1505516427,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 409183
+}{
+	"file" : "..\\..\\src\\command\\command.cpp",
+	"func" : "cmd::init_builtin_commands",
+	"line" : 84,
+	"message" : "Populating command map",
+	"sec" : 1505516427,
+	"section" : "command/init",
+	"severity" : 4,
+	"usec" : 409183
+}{
+	"file" : "..\\..\\libaegisub\\common\\hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Hotkey",
+	"line" : 55,
+	"message" : "Generating hotkeys.",
+	"sec" : 1505516427,
+	"section" : "hotkey/init",
+	"severity" : 4,
+	"usec" : 409183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\hotkey.json\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 409183
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::icon_init",
+	"line" : 65,
+	"message" : "Generating 24x24, 16x16 icons",
+	"sec" : 1505516427,
+	"section" : "icon/init",
+	"severity" : 4,
+	"usec" : 424783
+}{
+	"file" : "..\\..\\libaegisub\\common\\mru.cpp",
+	"func" : "agi::MRUManager::MRUManager",
+	"line" : 48,
+	"message" : "Loading MRU List",
+	"sec" : 1505516427,
+	"section" : "agi/mru",
+	"severity" : 4,
+	"usec" : 440383
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\mru.json\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 440383
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 76,
+	"message" : "Raster: FreeType 2.5.0",
+	"sec" : 1505516427,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 76,
+	"message" : "Shaper: FriBidi 0.19.5 (SIMPLE)",
+	"sec" : 1505516427,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\src\\subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 76,
+	"message" : "Initialized",
+	"sec" : 1505516427,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\cleantags-autoload.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\clean-info.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\kara-templater.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\karaoke-auto-leadin.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\macro-1-edgeblur.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\cleantags.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\macro-2-mkfullwitdh.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\select-overlaps.moon\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\karaskel.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\unicode.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\strip-tags.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\clean-info.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\karaskel-auto4.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\cleantags-autoload.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\kara-templater.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\cleantags.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 487183
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\utils.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\utils-auto4.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\karaskel.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\karaoke-auto-leadin.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\karaskel-auto4.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\aegisub\\unicode.moon\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\macro-1-edgeblur.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\utils.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\macro-2-mkfullwitdh.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\utils-auto4.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\unicode.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\aegisub\\util.moon\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\select-overlaps.moon\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\autoload\\strip-tags.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\aegisub\\unicode.moon\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 502783
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 518383
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 518383
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\aegisub\\util.moon\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 533983
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\moonscript.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 533983
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\unicode.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 549583
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:/Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\automation\\include\\unicode.lua\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 565183
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 187,
+	"message" : "Entering FrameMain constructor",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 580783
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 207,
+	"message" : "Initializing context models",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 580783
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 211,
+	"message" : "Initializing context controls",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 580783
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 229,
+	"message" : "Initializing context frames",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 580783
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 233,
+	"message" : "Install PNG handler",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 580783
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 239,
+	"message" : "Apply saved Maximized state",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 580783
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 242,
+	"message" : "Initialize toolbar",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 580783
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 245,
+	"message" : "Initialize menu bar",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 611983
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\menu.json\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 611983
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/open/video 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/open/autosave 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: app/exit 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/paste/over 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/find_replace 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/insert/before 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/insert/after 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/insert/before/videotime 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/insert/after/videotime 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/duplicate 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/split/before 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/split/after 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/join/concatenate 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/join/keep_first 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/join/as_karaoke 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/recombine 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: edit/line/split/by_karaoke 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/start 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/end 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/style 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/actor 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/effect 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/layer 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/start/selected 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/end/selected 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/style/selected 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/actor/selected 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/effect/selected 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/sort/layer/selected 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: grid/swap 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: subtitle/select/all 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: time/continuous/start 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: time/continuous/end 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: audio/open/blank 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: audio/open/noise 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/kara-templater/Apply karaoke template - 应用卡拉OK模版 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/clean-info/Clean Script Info 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/cleantags-autoload/Clean Tags - 整理特效标签 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/karaoke-auto-leadin/Automatic karaoke lead-in 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-1-edgeblur/Add edgeblur - 添加边角模糊 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-2-mkfullwitdh/Make fullwidth - 转换为全角字符 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/select-overlaps/Select overlaps 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/strip-tags/Strip tags - 删除特效标签 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: app/toggle/toolbar 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: app/updates 16",
+	"sec" : 1505516427,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 248,
+	"message" : "Create status bar",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 251,
+	"message" : "Set icon",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 260,
+	"message" : "Create views and inner main window controls",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 361,
+	"message" : "Create background panel",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 364,
+	"message" : "Create subtitles grid",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 627583
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 370,
+	"message" : "Create video box",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 643183
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 373,
+	"message" : "Create audio box",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 689983
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 376,
+	"message" : "Create subtitle editing box",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 721183
+}{
+	"file" : "..\\..\\src\\spellchecker_hunspell.cpp",
+	"func" : "HunspellSpellChecker::OnLanguageChanged",
+	"line" : 217,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\dictionaries\\en_US.dic\"",
+	"sec" : 1505516427,
+	"section" : "dictionary/file",
+	"severity" : 3,
+	"usec" : 861583
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\dictionaries\\user_en_US.dic\"",
+	"sec" : 1505516427,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 908383
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 379,
+	"message" : "Arrange main sizers",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 923983
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 392,
+	"message" : "Perform layout",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 923983
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 394,
+	"message" : "Leaving InitContents",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 923983
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 265,
+	"message" : "Complete context initialization",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 923983
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 268,
+	"message" : "Set up drag/drop target",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 923983
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 271,
+	"message" : "Load default file",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 923983
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 274,
+	"message" : "Display main window",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 939583
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 280,
+	"message" : "Possibly perform automatic updates check",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 986384
+}{
+	"file" : "..\\..\\src\\frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 296,
+	"message" : "Leaving FrameMain constructor",
+	"sec" : 1505516427,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 986384
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_013de9017c94522fded769b7d1af59f3>::operator ()",
+	"line" : 189,
+	"message" : "cleaning \"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\autosave\\*.AUTOSAVE.ass\"",
+	"sec" : 1505516427,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 986384
+}{
+	"file" : "..\\..\\src\\utils.cpp",
+	"func" : "CleanCache::<lambda_013de9017c94522fded769b7d1af59f3>::operator ()",
+	"line" : 199,
+	"message" : "cache does not need cleaning (maxsize=104857600, cursize=36835, maxfiles=1000, numfiles=37), exiting",
+	"sec" : 1505516428,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 1984
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\无标题.ass\"",
+	"sec" : 1505516432,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 447991
+}{
+	"file" : "..\\..\\src\\charset_detect.cpp",
+	"func" : "CharSetDetect::GetEncoding",
+	"line" : 64,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\无标题.ass\" (UTF-8)",
+	"sec" : 1505516432,
+	"section" : "charset/file",
+	"severity" : 3,
+	"usec" : 479191
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\无标题.ass\"",
+	"sec" : 1505516432,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 479191
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\无标题.ass\"",
+	"sec" : 1505516432,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 479191
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\mru.json\"",
+	"sec" : 1505516432,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 479191
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/kara-templater/Apply karaoke template - 应用卡拉OK模版 16",
+	"sec" : 1505516432,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 525992
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/clean-info/Clean Script Info 16",
+	"sec" : 1505516432,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 541592
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/cleantags-autoload/Clean Tags - 整理特效标签 16",
+	"sec" : 1505516432,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 541592
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/karaoke-auto-leadin/Automatic karaoke lead-in 16",
+	"sec" : 1505516432,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 541592
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-1-edgeblur/Add edgeblur - 添加边角模糊 16",
+	"sec" : 1505516432,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 541592
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-2-mkfullwitdh/Make fullwidth - 转换为全角字符 16",
+	"sec" : 1505516432,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 541592
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/select-overlaps/Select overlaps 16",
+	"sec" : 1505516432,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 541592
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/strip-tags/Strip tags - 删除特效标签 16",
+	"sec" : 1505516432,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 541592
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\"",
+	"sec" : 1505516442,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 314809
+}{
+	"file" : "..\\..\\src\\charset_detect.cpp",
+	"func" : "CharSetDetect::GetEncoding",
+	"line" : 64,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\" (UTF-8)",
+	"sec" : 1505516442,
+	"section" : "charset/file",
+	"severity" : 3,
+	"usec" : 330409
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\"",
+	"sec" : 1505516442,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 330409
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 34,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\无标题.ass\"",
+	"sec" : 1505516442,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 330409
+}{
+	"file" : "..\\..\\libaegisub\\common\\io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 50,
+	"message" : "\"C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub\\mru.json\"",
+	"sec" : 1505516442,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 330409
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/kara-templater/Apply karaoke template - 应用卡拉OK模版 16",
+	"sec" : 1505516442,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 377209
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/clean-info/Clean Script Info 16",
+	"sec" : 1505516442,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 377209
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/cleantags-autoload/Clean Tags - 整理特效标签 16",
+	"sec" : 1505516442,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 377209
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/karaoke-auto-leadin/Automatic karaoke lead-in 16",
+	"sec" : 1505516442,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 392809
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-1-edgeblur/Add edgeblur - 添加边角模糊 16",
+	"sec" : 1505516442,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 392809
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/macro-2-mkfullwitdh/Make fullwidth - 转换为全角字符 16",
+	"sec" : 1505516442,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 392809
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/select-overlaps/Select overlaps 16",
+	"sec" : 1505516442,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 392809
+}{
+	"file" : "..\\..\\src\\command\\icon.cpp",
+	"func" : "icon::get",
+	"line" : 49,
+	"message" : "Icon not found: automation/lua/strip-tags/Strip tags - 删除特效标签 16",
+	"sec" : 1505516442,
+	"section" : "icon/get",
+	"severity" : 2,
+	"usec" : 392809
+}

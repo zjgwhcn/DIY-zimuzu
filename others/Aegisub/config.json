@@ -304,9 +304,9 @@
 			"Audio" : "C:\\Users\\Venson Young\\Desktop",
 			"Automation" : "",
 			"Keyframes" : "",
-			"Subtitles" : "C:\\Users\\Administrator\\Desktop\\DIY-zimuzu\\others\\Aegisub",
+			"Subtitles" : "C:\\Users\\Administrator\\Desktop\\DIY-zimuzu",
 			"Timecodes" : "",
-			"Video" : "E:\\"
+			"Video" : "D:\\DIY字幕组\\Despicable.Me.2.2013.1080p.BluRay.x264.DTS-WiKi"
 		},
 		"Screenshot" : "?video"
 	},
@@ -450,8 +450,50 @@
 				"Y" : 218
 			},
 			"Maximized" : false,
-			"Mode" : 4,
+			"Mode" : 1,
 			"Recent Colours" : [
+				{
+					"color" : "rgb(34, 17, 56)"
+				},
+				{
+					"color" : "rgb(171, 177, 200)"
+				},
+				{
+					"color" : "rgb(230, 215, 92)"
+				},
+				{
+					"color" : "rgb(213, 219, 227)"
+				},
+				{
+					"color" : "rgb(13, 112, 36)"
+				},
+				{
+					"color" : "rgb(99, 66, 66)"
+				},
+				{
+					"color" : "rgb(8, 7, 7)"
+				},
+				{
+					"color" : "rgb(40, 32, 32)"
+				},
+				{
+					"color" : "rgb(15, 172, 193)"
+				},
+				{
+					"color" : "rgb(20, 79, 8)"
+				},
+				{
+					"color" : "rgb(18, 68, 93)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(255, 0, 0)"
+				},
+				{
+					"color" : "rgb(255, 255, 255)"
+				},
 				{
 					"color" : "rgb(224, 37, 36)"
 				},
@@ -505,48 +547,6 @@
 				},
 				{
 					"color" : "rgb(231, 255, 255)"
-				},
-				{
-					"color" : "rgb(3, 62, 75)"
-				},
-				{
-					"color" : "rgb(183, 253, 253)"
-				},
-				{
-					"color" : "rgb(161, 250, 250)"
-				},
-				{
-					"color" : "rgb(46, 128, 127)"
-				},
-				{
-					"color" : "rgb(158, 230, 229)"
-				},
-				{
-					"color" : "rgb(157, 230, 228)"
-				},
-				{
-					"color" : "rgb(211, 255, 255)"
-				},
-				{
-					"color" : "rgb(155, 230, 227)"
-				},
-				{
-					"color" : "rgb(91, 196, 192)"
-				},
-				{
-					"color" : "rgb(218, 255, 255)"
-				},
-				{
-					"color" : "rgb(160, 250, 250)"
-				},
-				{
-					"color" : "rgb(162, 232, 230)"
-				},
-				{
-					"color" : "rgb(45, 57, 79)"
-				},
-				{
-					"color" : "rgb(138, 207, 246)"
 				}
 			]
 		},
@@ -598,7 +598,7 @@
 			]
 		},
 		"Preferences" : {
-			"Page" : 10
+			"Page" : 2
 		},
 		"Search Replace" : {
 			"Affect" : 0,
@@ -642,12 +642,12 @@
 				"Y" : -1
 			},
 			"Maximized" : false,
-			"Preview Text" : "Aegisub\\N0123 月語"
+			"Preview Text" : "环球影视公司"
 		},
 		"Style Manager" : {
 			"Last" : {
-				"X" : 164,
-				"Y" : 76
+				"X" : 506,
+				"Y" : 78
 			},
 			"Maximized" : false
 		},
