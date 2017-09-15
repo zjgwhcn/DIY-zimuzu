@@ -1,0 +1,18 @@
+--- 14-05-22 10:00:08 ------------------
+VER - 3.1.0
+FTL - Beginning stack dump for "Fatal exception": 
+000 - 00E4EDD6: 
+001 - 00E4DAAC: 
+002 - 00E50625: 
+003 - 00E13E0B: 
+004 - 00FCE47D: 
+005 - 00FCF302: 
+006 - 00F34EFE: 
+007 - 00F37402: 
+008 - 012E95B4: lua_yield
+009 - 012E7A69: lua_yield
+010 - 012E7CC0: lua_yield
+011 - 012E720A: lua_yield
+End of stack dump.
+----------------------------------------
+
