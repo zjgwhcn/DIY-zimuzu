@@ -21,7 +21,19 @@ Last Style Storage: Default
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: 环球影视公司,楷体,208,&H00E3DBD5,&H00C8B1AB,&H000C3A71,&H001C354F,-1,0,0,0,68,36,13,0,1,3,3,2,10,10,10,1
+Style: 片头,仿宋,58,&H00788FBA,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,33,0,1,1,1,2,10,10,10,1
+Style: 片名,黑体,188,&H0006008B,&H00090531,&H00060087,&H001C354F,-1,0,0,0,68,36,16,0,1,3,3,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:23.25,0:00:25.17,环球影视公司,,0,0,0,,{\pos(1000.056,742.969)}环球影业公司
+Dialogue: 0,0:00:23.00,0:00:24.90,环球影视公司,,0,0,0,,{\fad(100,100)\pos(1000.056,742.969)}环球影业公司
+Dialogue: 0,0:00:26.90,0:00:39.90,环球影视公司,,0,0,0,,{\fad(600,600)\pos(939.541,779.289)}照明  娱乐
+Dialogue: 0,0:00:42.10,0:00:44.90,片头,,0,0,0,,{\pos(735.689,569.413)}通用
+Dialogue: 0,0:00:42.10,0:00:44.90,片头,,0,0,0,,{\pos(1200.334,574.753)}图片
+Dialogue: 0,0:00:46.80,0:00:49.80,片头,,0,0,0,,{{\fad(300,300)\pos(861.195,588.103)}克里斯   梅尔
+Dialogue: 0,0:00:46.80,0:00:49.80,片头,,0,0,0,,{\fad(300,300)\pos(927.954,710.928)}导演
+Dialogue: 0,0:00:53.17,0:00:56.55,片名,,0,0,0,,{\fad(300,100)\pos(1267.092,1017.99)}卑鄙的我 2
+Dialogue: 0,0:01:01.80,0:01:03.80,片头,,0,0,0,,{\pos(947.015,563)}史蒂夫 卡雷尔
+Dialogue: 0,0:01:06.00,0:01:09.80,片头,,0,0,0,,{\pos(914.604,582.763)}{pos(1267.092,1017.99)}克里斯汀
+Dialogue: 0,0:01:11.11,0:01:11.11,片头,,0,0,0,,
+Dialogue: 0,0:01:05.80,0:01:06.00,片头,,0,0,0,,

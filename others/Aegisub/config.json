@@ -29,7 +29,7 @@
 		],
 		"Language" : "zh_CN",
 		"Local Config" : true,
-		"Maximized" : true,
+		"Maximized" : false,
 		"Save Charset" : "UTF-8",
 		"Save UI State" : true,
 		"Show Toolbar" : true,
@@ -106,8 +106,8 @@
 		"Volume" : 50,
 		"Wheel Default to Zoom" : false,
 		"Zoom" : {
-			"Horizontal" : 4,
-			"Vertical" : 69
+			"Horizontal" : 50,
+			"Vertical" : 100
 		}
 	},
 	"Automation" : {
@@ -453,6 +453,39 @@
 			"Mode" : 1,
 			"Recent Colours" : [
 				{
+					"color" : "rgb(135, 0, 6)"
+				},
+				{
+					"color" : "rgb(49, 5, 9)"
+				},
+				{
+					"color" : "rgb(139, 0, 6)"
+				},
+				{
+					"color" : "rgb(113, 58, 12)"
+				},
+				{
+					"color" : "rgb(131, 0, 5)"
+				},
+				{
+					"color" : "rgb(0, 0, 0)"
+				},
+				{
+					"color" : "rgb(186, 0, 19)"
+				},
+				{
+					"color" : "rgb(186, 143, 120)"
+				},
+				{
+					"color" : "rgb(79, 53, 28)"
+				},
+				{
+					"color" : "rgb(255, 255, 255)"
+				},
+				{
+					"color" : "rgb(232, 165, 74)"
+				},
+				{
 					"color" : "rgb(34, 17, 56)"
 				},
 				{
@@ -486,13 +519,7 @@
 					"color" : "rgb(18, 68, 93)"
 				},
 				{
-					"color" : "rgb(0, 0, 0)"
-				},
-				{
 					"color" : "rgb(255, 0, 0)"
-				},
-				{
-					"color" : "rgb(255, 255, 255)"
 				},
 				{
 					"color" : "rgb(224, 37, 36)"
@@ -505,9 +532,6 @@
 				},
 				{
 					"color" : "rgb(190, 170, 166)"
-				},
-				{
-					"color" : "rgb(186, 143, 120)"
 				},
 				{
 					"color" : "rgb(190, 169, 167)"
@@ -523,30 +547,6 @@
 				},
 				{
 					"color" : "rgb(135, 210, 195)"
-				},
-				{
-					"color" : "rgb(54, 155, 165)"
-				},
-				{
-					"color" : "rgb(104, 17, 26)"
-				},
-				{
-					"color" : "rgb(160, 162, 152)"
-				},
-				{
-					"color" : "rgb(164, 157, 141)"
-				},
-				{
-					"color" : "rgb(188, 245, 242)"
-				},
-				{
-					"color" : "rgb(157, 235, 237)"
-				},
-				{
-					"color" : "rgb(92, 187, 185)"
-				},
-				{
-					"color" : "rgb(231, 255, 255)"
 				}
 			]
 		},
@@ -646,8 +646,8 @@
 		},
 		"Style Manager" : {
 			"Last" : {
-				"X" : 506,
-				"Y" : 78
+				"X" : 699,
+				"Y" : 93
 			},
 			"Maximized" : false
 		},
